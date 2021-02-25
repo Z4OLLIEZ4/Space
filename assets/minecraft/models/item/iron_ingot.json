@@ -1,0 +1,12 @@
+{
+ "parent": "item/generated",
+ "textures": {
+ "layer0": "item/iron_ingot"
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":1234567}, "model": "item/aluminium_ingot"},
+{"predicate": {"custom_model_data":1234568}, "model": "item/palladium_ingot"},
+{"predicate": {"custom_model_data":1234569}, "model": "item/rocket"}
+ ]
+}

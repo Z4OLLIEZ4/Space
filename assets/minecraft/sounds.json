@@ -1,0 +1,74 @@
+{
+    "airlock": {
+         "sounds":[
+             {
+                 "name": "custom/airlock_door",
+                 "weight": 1
+             } 
+         ]
+    },
+    "airlock_close": {
+         "sounds":[
+             {
+                 "name": "custom/airlock_door_close",
+                 "weight": 1
+             } 
+         ]
+    },
+    "elevator": {
+         "sounds":[
+             {
+                 "name": "custom/elevator",
+                 "weight": 1
+             } 
+         ]
+    },
+    "lightsaber_swing": {
+         "sounds":[
+             {
+                 "name": "custom/lightsaber_swing",
+                 "weight": 1
+             } 
+         ]
+    },
+    "lightsaber_on": {
+         "sounds":[
+             {
+                 "name": "custom/lightsaber_on",
+                 "weight": 1
+             } 
+         ]
+    },
+    "lightsaber_off": {
+         "sounds":[
+             {
+                 "name": "custom/lightsaber_off",
+                 "weight": 1
+             } 
+         ]
+    },
+    "trashcan_open": {
+         "sounds":[
+             {
+                 "name": "custom/trashcan_open",
+                 "weight": 1
+             } 
+         ]
+    },
+    "trashcan_close": {
+         "sounds":[
+             {
+                 "name": "custom/trashcan_close",
+                 "weight": 1
+             } 
+         ]
+    },
+    "photonic_barrier": {
+         "sounds":[
+             {
+                 "name": "custom/photonic_barrier",
+                 "weight": 1
+             } 
+         ]
+    }
+}

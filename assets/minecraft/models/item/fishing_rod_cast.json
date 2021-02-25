@@ -1,0 +1,10 @@
+{
+  "parent": "item/fishing_rod",
+  "textures": {
+  "layer0": "item/fishing_rod_cast"
+},
+
+ "overrides": [
+ {"predicate": {"custom_model_data":1234567}, "model": "item/grappling_hook"}
+ ]
+}

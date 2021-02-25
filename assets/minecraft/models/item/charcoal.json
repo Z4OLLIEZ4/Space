@@ -1,0 +1,20 @@
+{
+ "parent": "item/generated",
+ "textures": {
+ "layer0": "item/charcoal"
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":1234567}, "model": "item/tank_gui_full"},
+ {"predicate": {"custom_model_data":1234568}, "model": "item/tank_gui_full_2"},
+ {"predicate": {"custom_model_data":1234569}, "model": "item/tank_gui_full_3"},
+ {"predicate": {"custom_model_data":1234570}, "model": "item/tank_gui_full_4"},
+ {"predicate": {"custom_model_data":1234571}, "model": "item/tank_gui_full_5"},
+ {"predicate": {"custom_model_data":1234572}, "model": "item/tank_gui_full_6"},
+ {"predicate": {"custom_model_data":1234573}, "model": "item/tank_gui_full_7"},
+ {"predicate": {"custom_model_data":1234574}, "model": "item/tank_gui_full_8"},
+ {"predicate": {"custom_model_data":1234575}, "model": "item/tank_gui_full_9"},
+ {"predicate": {"custom_model_data":1234576}, "model": "item/tank_gui_full_10"},
+ {"predicate": {"custom_model_data":1234577}, "model": "item/tank_gui_full_11"}
+ ]
+}

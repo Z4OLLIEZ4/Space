@@ -1,0 +1,13 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/iron_block"
+    
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":1234567}, "model": "item/suit_fabricator"},
+ {"predicate": {"custom_model_data":1234568}, "model": "item/modular_workbench"},
+ {"predicate": {"custom_model_data":1234569}, "model": "item/sword_editor"}
+ ]
+}

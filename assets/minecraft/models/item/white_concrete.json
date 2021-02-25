@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "block/white_concrete"
+    
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":1234567}, "model": "item/lunchbox"}
+ ]
+}

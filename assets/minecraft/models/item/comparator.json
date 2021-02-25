@@ -1,0 +1,11 @@
+{
+ "parent": "item/generated",
+ "textures": {
+ "layer0": "item/comparator"
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":1234567}, "model": "item/pcb"},
+ {"predicate": {"custom_model_data":1234568}, "model": "item/breath_dampener"}
+ ]
+}
