@@ -1,5 +1,5 @@
 {
-	"credit": "Created by ICEconchy",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"solar1": "block/solar1",
 		"solar2": "block/solar2",
@@ -3012,7 +3012,8 @@
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"head": {
-			"translation": [0, 14, 0]
+			"translation": [0, -4.75, 0],
+			"scale": [1.6, 1.6, 1.6]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],

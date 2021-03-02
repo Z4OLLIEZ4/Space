@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_daylight_detector",
+  "textures": {
+    "top": "minecraft:block/daylight_detector_top",
+    "side": "minecraft:block/daylight_detector_side"
+  },
+ "overrides": [
+ {"predicate": {"custom_model_data":1234567}, "model": "item/solarpanel"}
+ ]
+}
