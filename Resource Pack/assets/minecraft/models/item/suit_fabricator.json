@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by OLLIEZ4",
 	"textures": {
 		"0": "models/stone",
 		"1": "models/randompurple",
@@ -503,6 +503,7 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {
+			"translation": [0, 0.3, 0],
 			"scale": [1.6, 1.6, 1.6]
 		},
 		"fixed": {
