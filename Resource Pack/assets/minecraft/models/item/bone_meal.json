@@ -5,6 +5,7 @@
  },
  
  "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/emergency_kit"}
+ {"predicate": {"custom_model_data":1234567}, "model": "item/emergency_kit"},
+{"predicate": {"custom_model_data":1234568}, "model": "item/reactor_gui"}
  ]
 }
