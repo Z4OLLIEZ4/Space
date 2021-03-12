@@ -5,6 +5,7 @@
 },
  
  "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/requirements"}
+ {"predicate": {"custom_model_data":1234567}, "model": "item/requirements"},
+ {"predicate": {"custom_model_data":1234568}, "model": "item/requirements_nobg"}
  ]
 }
