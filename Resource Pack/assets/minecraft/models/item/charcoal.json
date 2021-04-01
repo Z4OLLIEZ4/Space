@@ -1,20 +1,19 @@
 {
- "parent": "item/generated",
- "textures": {
- "layer0": "item/charcoal"
- },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/tank_gui_full"},
- {"predicate": {"custom_model_data":1234568}, "model": "item/tank_gui_full_2"},
- {"predicate": {"custom_model_data":1234569}, "model": "item/tank_gui_full_3"},
- {"predicate": {"custom_model_data":1234570}, "model": "item/tank_gui_full_4"},
- {"predicate": {"custom_model_data":1234571}, "model": "item/tank_gui_full_5"},
- {"predicate": {"custom_model_data":1234572}, "model": "item/tank_gui_full_6"},
- {"predicate": {"custom_model_data":1234573}, "model": "item/tank_gui_full_7"},
- {"predicate": {"custom_model_data":1234574}, "model": "item/tank_gui_full_8"},
- {"predicate": {"custom_model_data":1234575}, "model": "item/tank_gui_full_9"},
- {"predicate": {"custom_model_data":1234576}, "model": "item/tank_gui_full_10"},
- {"predicate": {"custom_model_data":1234577}, "model": "item/tank_gui_full_11"}
- ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/charcoal"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/tank/gui_0"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/tank/gui_1"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:gui/tank/gui_2"},
+		{"predicate": {"custom_model_data": 1234570}, "model": "space:gui/tank/gui_3"},
+		{"predicate": {"custom_model_data": 1234571}, "model": "space:gui/tank/gui_4"},
+		{"predicate": {"custom_model_data": 1234572}, "model": "space:gui/tank/gui_5"},
+		{"predicate": {"custom_model_data": 1234573}, "model": "space:gui/tank/gui_6"},
+		{"predicate": {"custom_model_data": 1234574}, "model": "space:gui/tank/gui_7"},
+		{"predicate": {"custom_model_data": 1234575}, "model": "space:gui/tank/gui_8"},
+		{"predicate": {"custom_model_data": 1234576}, "model": "space:gui/tank/gui_9"},
+		{"predicate": {"custom_model_data": 1234577}, "model": "space:gui/tank/gui_10"}
+	]
 }

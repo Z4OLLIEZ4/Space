@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/end_crystal"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/sword_unbreakable"}
+	]
+}

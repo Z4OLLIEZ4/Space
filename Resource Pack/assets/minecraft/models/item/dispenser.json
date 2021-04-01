@@ -1,11 +1,6 @@
 {
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "top": "minecraft:block/furnace_top",
-    "front": "minecraft:block/dispenser_front",
-    "side": "minecraft:block/furnace_side"
-  },
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/oxygenbubbledistributor"}
- ]
+	"parent": "minecraft:block/dispenser",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/oxygen_bubble_distributor"}
+	]
 }

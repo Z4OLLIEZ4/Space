@@ -1,10 +1,11 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "block/gray_stained_glass"
- },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/border_glass"}
- ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:block/gray_stained_glass"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/border"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/uranium_border"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:gui/coolant_border"}
+	]
 }

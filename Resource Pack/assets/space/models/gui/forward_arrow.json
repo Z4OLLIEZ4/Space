@@ -1,0 +1,11 @@
+{
+	"parent": "space:gui/template_gui",
+	"textures": {
+		"layer0": "space:gui/back_arrow"
+	},
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0]
+		}
+	}
+}

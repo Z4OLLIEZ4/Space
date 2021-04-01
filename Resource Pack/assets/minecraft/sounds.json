@@ -1,74 +1,56 @@
 {
-    "airlock": {
-         "sounds":[
-             {
-                 "name": "custom/airlock_door",
-                 "weight": 1
-             } 
-         ]
-    },
-    "airlock_close": {
-         "sounds":[
-             {
-                 "name": "custom/airlock_door_close",
-                 "weight": 1
-             } 
-         ]
-    },
-    "elevator": {
-         "sounds":[
-             {
-                 "name": "custom/elevator",
-                 "weight": 1
-             } 
-         ]
-    },
-    "lightsaber_swing": {
-         "sounds":[
-             {
-                 "name": "custom/lightsaber_swing",
-                 "weight": 1
-             } 
-         ]
-    },
-    "lightsaber_on": {
-         "sounds":[
-             {
-                 "name": "custom/lightsaber_on",
-                 "weight": 1
-             } 
-         ]
-    },
-    "lightsaber_off": {
-         "sounds":[
-             {
-                 "name": "custom/lightsaber_off",
-                 "weight": 1
-             } 
-         ]
-    },
-    "trashcan_open": {
-         "sounds":[
-             {
-                 "name": "custom/trashcan_open",
-                 "weight": 1
-             } 
-         ]
-    },
-    "trashcan_close": {
-         "sounds":[
-             {
-                 "name": "custom/trashcan_close",
-                 "weight": 1
-             } 
-         ]
-    },
-    "photonic_barrier": {
-         "sounds":[
-             {
-                 "name": "custom/photonic_barrier",
-                 "weight": 1
-             } 
-         ]
-    }
+	"airlock": {
+		"sounds":[
+			"space:airlock_door"
+		],
+		"subtitle": "Airlock Door opens"
+	},
+	"airlock_close": {
+		"sounds":[
+			"space:airlock_door_close"
+		],
+		"subtitle": "Airlock Door closes"
+	},
+	"elevator": {
+		"sounds":[
+			"space:elevator"
+		],
+		"subtitle": "Elevator used"
+	},
+	"lightsaber_swing": {
+		"sounds":[
+			"space:lightsaber_swing"
+		],
+		"subtitle": "Lightsaber swings"
+	},
+	"lightsaber_on": {
+		"sounds":[
+			"space:lightsaber_on"
+		],
+		"subtitle": "Lightsaber activates"
+	},
+	"lightsaber_off": {
+		"sounds":[
+			"space:lightsaber_off"
+		],
+		"subtitle": "Lightsaber deactivates"
+	},
+	"trashcan_open": {
+		"sounds":[
+			"space:trashcan_open"
+		],
+		"subtitle": "Trash Can opens"
+	},
+	"trashcan_close": {
+		"sounds":[
+			"space:trashcan_close"
+		],
+		"subtitle": "Trash Can closes"
+	},
+	"photonic_barrier": {
+		"sounds":[
+			"space:photonic_barrier"
+		],
+		"subtitle": "Photonic Barrier deployed"
+	}
 }

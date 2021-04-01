@@ -1,11 +1,6 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/cobblestone"
-    
- },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/nuclear_reactor"}
- ]
+	"parent": "minecraft:block/cobblestone",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/nuclear_reactor"}
+	]
 }

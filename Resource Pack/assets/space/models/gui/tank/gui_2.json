@@ -1,0 +1,7 @@
+{
+	"parent": "space:gui/tank/template_tank_gui",
+	"textures": {
+		"layer0": "space:gui/tank/gui_2",
+		"particle": "space:gui/tank/gui_2"
+	}
+}

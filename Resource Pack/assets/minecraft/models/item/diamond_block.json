@@ -1,11 +1,6 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/diamond_block"
-    
- },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/tesseract"}
- ]
+	"parent": "minecraft:block/diamond_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/tesseract"}
+	]
 }

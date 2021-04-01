@@ -1,11 +1,6 @@
 {
-    "parent": "block/observer",
-    "textures": {
-        "all": "block/observer"
-    
- },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/atomiser"}
- ]
+	"parent": "minecraft:block/observer",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/atomiser"}
+	]
 }

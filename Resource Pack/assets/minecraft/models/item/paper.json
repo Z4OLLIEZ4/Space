@@ -1,11 +1,10 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/paper"
-},
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/requirements"},
- {"predicate": {"custom_model_data":1234568}, "model": "item/requirements_nobg"}
- ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/paper"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/requirements"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/requirements_nobg"}
+	]
 }

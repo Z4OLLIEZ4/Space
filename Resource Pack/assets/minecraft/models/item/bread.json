@@ -1,10 +1,9 @@
 {
- "parent": "item/generated",
- "textures": {
- "layer0": "item/bread"
- },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/baguette"}
- ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/bread"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/baguette"}
+	]
 }

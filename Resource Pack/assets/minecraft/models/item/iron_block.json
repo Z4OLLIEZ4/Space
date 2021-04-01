@@ -1,13 +1,8 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/iron_block"
-    
- },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/suit_fabricator"},
- {"predicate": {"custom_model_data":1234568}, "model": "item/modular_workbench"},
- {"predicate": {"custom_model_data":1234569}, "model": "item/sword_editor"}
- ]
+	"parent": "minecraft:block/iron_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/suit_fabricator"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:block/modular_workbench"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:block/sword_editor"}
+	]
 }

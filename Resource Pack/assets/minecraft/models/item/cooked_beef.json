@@ -1,10 +1,9 @@
 {
- "parent": "item/generated",
- "textures": {
- "layer0": "item/cooked_beef"
- },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/canned_beef"}
- ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/cooked_beef"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/canned_beef"}
+	]
 }

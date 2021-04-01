@@ -1,10 +1,9 @@
 {
- "parent": "item/generated",
- "textures": {
- "layer0": "block/glass"
- },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/pipe"}
- ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:block/glass"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/pipe"}
+	]
 }

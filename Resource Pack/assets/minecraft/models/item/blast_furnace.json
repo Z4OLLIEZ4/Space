@@ -1,12 +1,6 @@
 {
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "top": "minecraft:block/blast_furnace_top",
-    "front": "minecraft:block/blast_furnace_front",
-    "side": "minecraft:block/blast_furnace_side"
-  },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1234567}, "model": "item/tankrefiller"}
- ]
+	"parent": "minecraft:block/blast_furnace",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/tank_refiller"}
+	]
 }

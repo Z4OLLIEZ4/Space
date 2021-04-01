@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/golden_chestplate"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/voyager_chestplate"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/rogue_chestplate"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/explorer_chestplate"}
+	]
+}
