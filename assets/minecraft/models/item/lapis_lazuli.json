@@ -4,6 +4,7 @@
 		"layer0": "minecraft:item/lapis_lazuli"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/coolant_cell"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/coolant_cell"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/fuel_cell"}
 	]
 }
