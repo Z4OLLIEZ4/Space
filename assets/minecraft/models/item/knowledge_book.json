@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "minecraft:item/enchanted_book"
+		"layer0": "minecraft:item/knowledge_book"
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/wiki_link_item"},
