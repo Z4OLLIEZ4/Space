@@ -1,0 +1,12 @@
+{
+	"parent": "space:gui/template_gui",
+	"textures": {
+		"layer0": "space:gui/nuclear_reactor_gui_off"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, 0, 1],
+			"scale": [3, 3, 3]
+		}
+	}
+}

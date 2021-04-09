@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/barrier"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/back_arrow"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/cross"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:gui/forward_arrow"}
+	]
+}

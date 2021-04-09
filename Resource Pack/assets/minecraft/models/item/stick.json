@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/stick"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/airlock_door"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/aluminium_rod"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/hang_glider"}
+	]
+}

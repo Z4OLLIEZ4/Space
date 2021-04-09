@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/blast_furnace",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/tank_refiller"}
+	]
+}
