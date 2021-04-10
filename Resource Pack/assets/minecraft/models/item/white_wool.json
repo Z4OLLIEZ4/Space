@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/white_wool",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/flag"}
-	]
-}

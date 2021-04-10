@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/anvil",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/sword_unbreaking"}
-	]
-}
