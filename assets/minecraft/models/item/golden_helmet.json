@@ -4,7 +4,7 @@
 		"layer0": "minecraft:item/golden_helmet"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/voyager_helmet"},
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/voyager_1_helmet"},
 		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/rogue_helmet"}
 	]
 }
