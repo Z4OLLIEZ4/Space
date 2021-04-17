@@ -1,14 +1,12 @@
 {
-	"credit": "Made by OLLIEZ4",
+	"credit": "Made by DalekCraft",
 	"textures": {
-		"0": "space:block/stone",
-		"1": "space:item/circuit_board",
-		"2": "space:block/led",
-		"3": "minecraft:block/grass_block_side",
-		"4": "minecraft:block/dirt",
+		"0": "block/stonecutter_bottom",
+		"3": "block/grass_block_side",
+		"4": "block/dirt",
 		"5": "space:block/grass_block_top",
 		"6": "space:block/purple",
-		"particle": "space:block/stone"
+		"particle": "block/stonecutter_bottom"
 	},
 	"elements": [
 		{
@@ -113,107 +111,6 @@
 				"west": {"uv": [14, 0, 16, 2], "texture": "#0"},
 				"up": {"uv": [0, 14, 16, 16], "texture": "#0"},
 				"down": {"uv": [0, 0, 16, 2], "texture": "#0"}
-			}
-		},
-		{
-			"from": [12, 2, 3],
-			"to": [14, 2.1, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [22, 10, 11]},
-			"faces": {
-				"north": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"east": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"south": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"west": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"up": {"uv": [9, 2, 12.5, 13.5], "texture": "#1"}
-			}
-		},
-		{
-			"from": [11, 2, 5.7],
-			"to": [12, 2.1, 5.8],
-			"rotation": {"angle": 0, "axis": "y", "origin": [19, 10, 14]},
-			"faces": {
-				"north": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"south": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"up": {"uv": [4, 3, 5, 4], "texture": "#1"}
-			}
-		},
-		{
-			"from": [10, 2, 5.35],
-			"to": [11, 2.1, 6.1],
-			"rotation": {"angle": 0, "axis": "y", "origin": [18, 10, 13]},
-			"faces": {
-				"north": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"east": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"south": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"west": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"up": {"uv": [5, 7, 8, 9], "texture": "#1"}
-			}
-		},
-		{
-			"from": [12, 2, 11],
-			"to": [14, 2.1, 12],
-			"rotation": {"angle": 0, "axis": "y", "origin": [19, 10, 19]},
-			"faces": {
-				"north": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"east": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"south": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"west": {"uv": [4, 13, 5, 14], "texture": "#1"},
-				"up": {"uv": [4, 12, 8, 14], "texture": "#1"}
-			}
-		},
-		{
-			"from": [12.95, 2, 9],
-			"to": [13.05, 2.1, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [20, 10, 17]},
-			"faces": {
-				"east": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"west": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"up": {"uv": [4, 3, 5, 4], "texture": "#1"}
-			}
-		},
-		{
-			"from": [10, 2.5, 4],
-			"to": [10.5, 3, 4.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [18, 11, 12]},
-			"faces": {
-				"north": {"uv": [0, 0, 1, 1], "texture": "#2"},
-				"east": {"uv": [0, 0, 1, 1], "texture": "#2"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#2"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#2"},
-				"up": {"uv": [0, 0, 1, 1], "texture": "#2"},
-				"down": {"uv": [0, 0, 1, 1], "texture": "#2"}
-			}
-		},
-		{
-			"from": [10.15, 2, 4.15],
-			"to": [10.35, 2.5, 4.35],
-			"rotation": {"angle": 0, "axis": "y", "origin": [18, 10, 12]},
-			"faces": {
-				"north": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"east": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"south": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"west": {"uv": [4, 3, 5, 4], "texture": "#1"}
-			}
-		},
-		{
-			"from": [10.3, 2, 4.2],
-			"to": [11.3, 2.1, 4.3],
-			"rotation": {"angle": 0, "axis": "y", "origin": [18, 10, 11]},
-			"faces": {
-				"north": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"south": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"up": {"uv": [4, 3, 5, 4], "texture": "#1"}
-			}
-		},
-		{
-			"from": [11.3, 2, 4.2],
-			"to": [11.4, 2.1, 5.7],
-			"rotation": {"angle": 0, "axis": "y", "origin": [19, 10, 12]},
-			"faces": {
-				"north": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"east": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"west": {"uv": [4, 3, 5, 4], "texture": "#1"},
-				"up": {"uv": [4, 3, 5, 4], "texture": "#1"}
 			}
 		},
 		{

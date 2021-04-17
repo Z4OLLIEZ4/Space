@@ -1,5 +1,5 @@
 {
-	"parent": "space:gui/template_gui",
+	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "space:gui/advanced_projectile_resistance"
 	}

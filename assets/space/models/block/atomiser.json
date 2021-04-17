@@ -2,10 +2,10 @@
 	"credit": "Made by OLLIEZ4",
 	"parent": "space:block/template_block_1_tall",
 	"textures": {
-		"0": "space:block/stone",
+		"0": "minecraft:block/stonecutter_bottom",
 		"1": "space:block/random_purple",
 		"2": "minecraft:block/iron_block",
-		"particle": "space:block/stone"
+		"particle": "minecraft:block/stonecutter_bottom"
 	},
 	"elements": [
 		{

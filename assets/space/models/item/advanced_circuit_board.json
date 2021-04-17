@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "space:item/circuit_board"
+		"layer0": "space:item/advanced_circuit_board"
 	}
 }

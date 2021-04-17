@@ -2,7 +2,8 @@
 	"credit": "Made by OLLIEZ4",
 	"textures": {
 		"0": "space:block/vent_output",
-		"1": "space:block/stone",
+		"1": "minecraft:block/lodestone_side",
+		"2": "minecraft:block/lodestone_top",
 		"particle": "space:block/vent_output"
 	},
 	"elements": [
@@ -15,7 +16,7 @@
 				"south": {"uv": [0, 14, 16, 16], "texture": "#1"},
 				"west": {"uv": [0, 14, 16, 16], "texture": "#1"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
 			}
 		},
 		{

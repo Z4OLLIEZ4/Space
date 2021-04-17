@@ -2,7 +2,7 @@
 	"credit": "Made by OLLIEZ4",
 	"textures": {
 		"0": "space:block/vent",
-		"1": "space:block/stone",
+		"1": "minecraft:block/blast_furnace_top",
 		"particle": "space:block/vent"
 	},
 	"elements": [

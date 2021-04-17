@@ -1,6 +1,0 @@
-{
-	"parent": "space:gui/template_gui",
-	"textures": {
-		"layer0": "space:gui/fuel_cell"
-	}
-}
