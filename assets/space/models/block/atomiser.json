@@ -3,7 +3,7 @@
 	"parent": "space:block/template_block_1_tall",
 	"textures": {
 		"0": "minecraft:block/stonecutter_bottom",
-		"1": "space:block/random_purple",
+		"1": "space:block/calibrated_sculk_sensor_top",
 		"2": "minecraft:block/iron_block",
 		"particle": "minecraft:block/stonecutter_bottom"
 	},

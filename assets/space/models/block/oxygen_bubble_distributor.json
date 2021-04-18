@@ -2,10 +2,10 @@
 	"credit": "Made by OLLIEZ4",
 	"parent": "space:block/template_block_1_tall_energy",
 	"textures": {
-		"0": "space:block/vent_output",
+		"0": "space:block/oxygen_bubble_distributor",
 		"1": "minecraft:block/lodestone_side",
 		"2": "minecraft:block/lodestone_top",
-		"particle": "space:block/vent_output"
+		"particle": "space:block/oxygen_bubble_distributor"
 	},
 	"elements": [
 		{

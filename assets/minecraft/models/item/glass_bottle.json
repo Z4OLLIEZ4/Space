@@ -7,6 +7,7 @@
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/compressed_tank"},
 		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/light_oxygen_tank"},
 		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/medium_oxygen_tank"},
-		{"predicate": {"custom_model_data": 1234570}, "model": "space:item/heavy_oxygen_tank"}
+		{"predicate": {"custom_model_data": 1234570}, "model": "space:item/heavy_oxygen_tank"},
+		{"predicate": {"custom_model_data": 1234571}, "model": "space:item/infinite_oxygen_tank"}
 	]
 }
