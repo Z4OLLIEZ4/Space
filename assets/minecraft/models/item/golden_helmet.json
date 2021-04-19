@@ -9,6 +9,6 @@
 		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/voyager_3_helmet"},
 		{"predicate": {"custom_model_data": 1234570}, "model": "space:item/voyager_4_helmet"},
 		{"predicate": {"custom_model_data": 1234571}, "model": "space:item/voyager_5_helmet"},
-		{"predicate": {"custom_model_data": 1234573}, "model": "space:item/rogue_helmet"}
+		{"predicate": {"custom_model_data": 1234572}, "model": "space:item/rogue_helmet"}
 	]
 }

@@ -5,6 +5,6 @@
 		"layer1": "minecraft:item/leather_leggings_overlay"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/hazmat_leggings"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/hazmat_leggings"}
 	]
 }
