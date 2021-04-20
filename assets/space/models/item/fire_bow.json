@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/bow",
 	"textures": {
-		"layer0": "minecraft:item/bow"
+		"layer0": "space:item/fire_bow"
 	}
 }
