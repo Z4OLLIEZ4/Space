@@ -7,6 +7,6 @@
 		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/circuit_board"},
 		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/breath_dampener"},
 		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/advanced_circuit_board"},
-		{"predicate": {"custom_model_data": 1234570}, "model": "space:item/jetpack_controller"}
+		{"predicate": {"custom_model_data": 1234570}, "model": "space:item/modular_controller"}
 	]
 }
