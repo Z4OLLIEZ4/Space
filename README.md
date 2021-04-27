@@ -1,2 +1,2 @@
 # Space
-Explore the depths of space
+A new gamemode adding custom blocks, items, foods, worlds, enchantments and more!
