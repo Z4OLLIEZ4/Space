@@ -1,0 +1,49 @@
+{
+	"credit": "Made by DalekCraft",
+	"texture_size": [64, 64],
+	"textures": {
+		"texture": "entity/zombie/zombie"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#texture"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#texture"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#texture"},
+				"west": {"uv": [4.25, 2, 6.25, 4], "texture": "#texture"},
+				"up": {"uv": [2, 0, 4, 2], "texture": "#texture"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#texture"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, -135, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, -135, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 4, 0]
+		},
+		"head": {
+			"translation": [0, 9.6, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"translation": [0, 4, 0]
+		}
+	}
+}
