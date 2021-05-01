@@ -2,14 +2,14 @@
 	"credit": "Made by DalekCraft",
 	"parent": "space:block/template_block_1_tall",
 	"textures": {
-		"0": "block/iron_block",
-		"1": "block/glass",
-		"2": "block/respawn_anchor_top",
-		"3": "block/beacon",
-		"4": "block/sea_lantern",
-		"5": "block/smooth_stone",
+		"0": "minecraft:block/iron_block",
+		"1": "minecraft:block/glass",
+		"2": "minecraft:block/respawn_anchor_top",
+		"3": "minecraft:block/beacon",
+		"4": "minecraft:block/sea_lantern",
+		"5": "minecraft:block/smooth_stone",
 		"6": "space:block/quantum_workbench_plasma",
-		"particle": "block/iron_block"
+		"particle": "minecraft:block/iron_block"
 	},
 	"elements": [
 		{
