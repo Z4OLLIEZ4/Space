@@ -1,5 +1,5 @@
 {
-	"credit": "Made by OLLIEZ4",
+	"credit": "Made by DalekCraft",
 	"parent": "space:block/template_block_1_tall_energy",
 	"textures": {
 		"0": "space:block/oxygen_bubble_distributor",
@@ -80,7 +80,7 @@
 				"north": {"uv": [0, 2, 2, 14], "texture": "#1"},
 				"east": {"uv": [0, 2, 2, 14], "texture": "#1"},
 				"south": {"uv": [14, 2, 16, 14], "texture": "#1"},
-				"west": {"uv": [13.5, 2, 16, 14], "texture": "#1"}
+				"west": {"uv": [14, 2, 16, 14], "texture": "#1"}
 			}
 		},
 		{
@@ -115,6 +115,5 @@
 				"down": {"uv": [0, 0, 16, 2], "texture": "#1"}
 			}
 		}
-	],
-	"display": {}
+	]
 }
