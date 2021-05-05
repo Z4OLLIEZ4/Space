@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/cooked_beef"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/canned_beef"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/tinned_beef"}
 	]
 }
