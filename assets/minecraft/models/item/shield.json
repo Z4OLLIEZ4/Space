@@ -43,6 +43,6 @@
 	},
 	"overrides": [
 		{"predicate": {"blocking": 1}, "model": "minecraft:item/shield_blocking"},
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/advanced_projectile_resistance"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/modules/advanced_projectile_resistance"}
 	]
 }

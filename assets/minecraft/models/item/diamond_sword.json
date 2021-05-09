@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/diamond_sword"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/sword_sharpness"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/sword_editor/sharpness"}
 	]
 }

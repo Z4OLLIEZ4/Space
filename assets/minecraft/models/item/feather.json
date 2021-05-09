@@ -11,8 +11,8 @@
 		}
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/fast_walking"},
-		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/sword_thrust"},
-		{"predicate": {"custom_model_data": 1234569}, "model": "space:gui/jetpack_thrust_high"}
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/modules/fast_walking"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/sword_editor/thrust"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:gui/modules/jetpack_thrust_high"}
 	]
 }
