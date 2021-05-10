@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "space:block/rocket_tile",
 		"1": "space:block/rocket_tile_dark",
-		"2": "space:item/oxygen_mask",
+		"2": "space:item/oxygen_mask_tank",
 		"particle": "space:block/rocket_tile"
 	},
 	"elements": [
