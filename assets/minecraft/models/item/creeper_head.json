@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/template_skull",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/enhanced_creeper"}
-	]
+    "parent": "minecraft:item/template_skull",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1234567}, "model": "space:gui/enhanced_creeper"}
+    ]
 }

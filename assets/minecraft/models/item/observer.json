@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:block/observer",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/atomiser"}
-	]
+    "parent": "minecraft:block/observer",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1234567}, "model": "space:block/atomiser"}
+    ]
 }
