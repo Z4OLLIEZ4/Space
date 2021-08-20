@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "space:item/heavy_oxygen_tank"
-	}
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "space:item/heavy_oxygen_tank"
+    }
 }

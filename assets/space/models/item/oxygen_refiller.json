@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "space:item/oxygen_refiller"
-	}
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "space:item/oxygen_refiller"
+    }
 }

@@ -1,6 +1,6 @@
 {
-	"pack": {
-		"pack_format": 6,
-		"description": {"extra":[{"color":"dark_aqua","text":"The official Space resource pack\n"},{"color":"blue","text":"https://github.com/Z4OLLIEZ4/Space"}],"text":""}
-	}
+    "pack": {
+        "pack_format": 7,
+        "description": {"extra":[{"color":"dark_aqua","text":"The official Space resource pack\n"},{"color":"blue","text":"https://github.com/Z4OLLIEZ4/Space"}],"text":""}
+    }
 }

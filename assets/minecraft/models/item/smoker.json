@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:block/smoker",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/coal_generator"}
-	]
+    "parent": "minecraft:block/smoker",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1234567}, "model": "space:block/coal_generator"}
+    ]
 }

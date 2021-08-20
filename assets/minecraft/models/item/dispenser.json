@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:block/dispenser",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/oxygen_bubble_distributor"}
-	]
+    "parent": "minecraft:block/dispenser",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1234567}, "model": "space:block/oxygen_bubble_distributor"}
+    ]
 }

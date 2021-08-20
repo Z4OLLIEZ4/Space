@@ -1,7 +1,7 @@
 {
-	"parent": "minecraft:block/white_wool",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/flag"},
-		{"predicate": {"custom_model_data": 1234568}, "model": "space:block/elevator"}
-	]
+    "parent": "minecraft:block/white_wool",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1234567}, "model": "space:block/flag"},
+        {"predicate": {"custom_model_data": 1234568}, "model": "space:block/elevator"}
+    ]
 }

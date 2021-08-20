@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:block/furnace",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/oxygen_collector"}
-	]
+    "parent": "minecraft:block/furnace",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1234567}, "model": "space:block/oxygen_collector"}
+    ]
 }

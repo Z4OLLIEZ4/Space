@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:block/gray_concrete",
-	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/trash_can"}
-	]
+    "parent": "minecraft:block/gray_concrete",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1234567}, "model": "space:block/trash_can"}
+    ]
 }

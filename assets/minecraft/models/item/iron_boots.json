@@ -1,10 +1,9 @@
 {
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "minecraft:item/iron_boots"
-	},
-	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/explorer_boots"},
-		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/gboots"}
-	]
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/iron_boots"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1234567}, "model": "space:item/explorer_boots"}
+    ]
 }
