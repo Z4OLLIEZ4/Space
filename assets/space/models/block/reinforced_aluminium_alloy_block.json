@@ -2,8 +2,8 @@
     "credit": "Made by OLLIEZ4",
     "parent": "space:block/template_block_1_tall",
     "textures": {
-        "0": "space:block/aluminium_alloy_block",
-        "particle": "space:block/aluminium_alloy_block"
+        "0": "space:block/reinforced_aluminium_alloy_block",
+        "particle": "space:block/reinforced_aluminium_alloy_block"
     },
     "elements": [
         {

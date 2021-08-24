@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data": 1234572}, "model": "space:block/reinforced_aluminium_alloy_block"},
         {"predicate": {"custom_model_data": 1234573}, "model": "space:block/reinforced_palladium_block"},
         {"predicate": {"custom_model_data": 1234574}, "model": "space:block/aluminium_barrel"},
-        {"predicate": {"custom_model_data": 1234575}, "model": "space:block/palladium_barrel"}
+        {"predicate": {"custom_model_data": 1234575}, "model": "space:block/palladium_barrel"},
+        {"predicate": {"custom_model_data": 1234576}, "model": "space:block/titanium_workbench"}
     ]
 }

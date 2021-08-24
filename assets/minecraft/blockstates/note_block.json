@@ -1,7 +1,7 @@
 {
     "multipart": [
         {"when": {"note": "0", "instrument": "banjo"}, "apply": {"model": "space:block/elevator"}},
-        {"when": {"note": "1", "instrument": "banjo"}, "apply": {"model": "space:block/copper_block"}},
+        {"when": {"note": "1", "instrument": "banjo"}, "apply": {"model": "space:block/titanium_block"}},
         {"when": {"note": "2", "instrument": "banjo"}, "apply": {"model": "space:block/aluminium_alloy_block"}},
         {"when": {"note": "3", "instrument": "banjo"}, "apply": {"model": "space:block/reinforced_aluminium_alloy_block"}},
         {"when": {"note": "4", "instrument": "banjo"}, "apply": {"model": "space:block/palladium_block"}},
@@ -13,8 +13,8 @@
         {"when": {"note": "10", "instrument": "banjo"}, "apply": {"model": "space:block/trash_can"}},
         {"when": {"note": "11", "instrument": "banjo"}, "apply": {"model": "space:block/aluminium_barrel"}},
         {"when": {"note": "12", "instrument": "banjo"}, "apply": {"model": "space:block/palladium_barrel"}},
-        {"when": {"note": "13", "instrument": "banjo"}, "apply": {"model": "space:block/copper_barrel"}},
-        {"when": {"note": "14", "instrument": "banjo"}, "apply": {"model": "minecraft:block/note_block"}},
+        {"when": {"note": "13", "instrument": "banjo"}, "apply": {"model": "space:block/titanium_barrel"}},
+        {"when": {"note": "14", "instrument": "banjo"}, "apply": {"model": "space:block/titanium_workbench"}},
         {"when": {"note": "15", "instrument": "banjo"}, "apply": {"model": "minecraft:block/note_block"}},
         {"when": {"note": "16", "instrument": "banjo"}, "apply": {"model": "minecraft:block/note_block"}},
         {"when": {"note": "17", "instrument": "banjo"}, "apply": {"model": "minecraft:block/note_block"}},

@@ -4,7 +4,7 @@
         "layer0": "minecraft:item/gold_ingot"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:item/copper_ingot"},
+        {"predicate": {"custom_model_data": 1234567}, "model": "space:item/titanium_ingot"},
         {"predicate": {"custom_model_data": 1234568}, "model": "space:item/oxygen_refiller"}
     ]
 }
