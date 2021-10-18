@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/tnt",
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:item/blast_resistance_core"}
-    ]
+	"parent": "minecraft:block/tnt",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/blast_resistance_core"}
+	]
 }

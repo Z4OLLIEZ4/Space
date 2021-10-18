@@ -1,13 +1,13 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "minecraft:item/iron_ingot"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:item/aluminium_alloy_ingot"},
-        {"predicate": {"custom_model_data": 1234568}, "model": "space:item/palladium_ingot"},
-        {"predicate": {"custom_model_data": 1234569}, "model": "space:block/rocket"},
-        {"predicate": {"custom_model_data": 1234570}, "model": "space:item/reinforced_aluminium_alloy_ingot"},
-        {"predicate": {"custom_model_data": 1234571}, "model": "space:item/reinforced_palladium_ingot"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/iron_ingot"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/aluminium_alloy_ingot"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/palladium_ingot"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:block/rocket"},
+		{"predicate": {"custom_model_data": 1234570}, "model": "space:item/reinforced_aluminium_alloy_ingot"},
+		{"predicate": {"custom_model_data": 1234571}, "model": "space:item/reinforced_palladium_ingot"}
+	]
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/diamond_block",
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:block/tesseract"}
-    ]
+	"parent": "minecraft:block/diamond_block",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/tesseract"}
+	]
 }

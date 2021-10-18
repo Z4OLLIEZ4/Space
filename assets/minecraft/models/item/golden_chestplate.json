@@ -1,14 +1,14 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "minecraft:item/golden_chestplate"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:item/voyager_1_chestplate"},
-        {"predicate": {"custom_model_data": 1234568}, "model": "space:item/voyager_2_chestplate"},
-        {"predicate": {"custom_model_data": 1234569}, "model": "space:item/voyager_3_chestplate"},
-        {"predicate": {"custom_model_data": 1234570}, "model": "space:item/voyager_4_chestplate"},
-        {"predicate": {"custom_model_data": 1234571}, "model": "space:item/voyager_5_chestplate"},
-        {"predicate": {"custom_model_data": 1234572}, "model": "space:item/rogue_chestplate"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/golden_chestplate"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/voyager_1_chestplate"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/voyager_2_chestplate"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/voyager_3_chestplate"},
+		{"predicate": {"custom_model_data": 1234570}, "model": "space:item/voyager_4_chestplate"},
+		{"predicate": {"custom_model_data": 1234571}, "model": "space:item/voyager_5_chestplate"},
+		{"predicate": {"custom_model_data": 1234572}, "model": "space:item/rogue_chestplate"}
+	]
 }

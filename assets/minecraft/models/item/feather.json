@@ -1,18 +1,18 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "minecraft:item/feather"
-    },
-    "display": {
-        "head": {
-            "rotation": [0, 0, 45],
-            "translation": [-1, 13, 7],
-            "scale":[1, 1, 1]
-        }
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:gui/modules/fast_walking"},
-        {"predicate": {"custom_model_data": 1234568}, "model": "space:gui/sword_editor/thrust"},
-        {"predicate": {"custom_model_data": 1234569}, "model": "space:gui/modules/jetpack_thrust_high"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/feather"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 0, 45],
+			"translation": [-1, 13, 7],
+			"scale":[1, 1, 1]
+		}
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/modules/fast_walking"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/sword_editor/thrust"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:gui/modules/jetpack_thrust_high"}
+	]
 }

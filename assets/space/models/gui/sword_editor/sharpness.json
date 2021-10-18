@@ -1,3 +1,6 @@
 {
-    "parent": "minecraft:item/diamond_sword"
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/diamond_sword"
+	}
 }

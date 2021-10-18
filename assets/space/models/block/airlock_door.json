@@ -1,47 +1,47 @@
 {
-    "credit": "Made by OLLIEZ4",
-    "parent": "space:block/template_block_2_tall",
-    "texture_size": [16, 32],
-    "textures": {
-        "0": "space:block/airlock_door",
-        "particle": "space:block/airlock_door"
-    },
-    "elements": [
-        {
-            "from": [0, 1, 7],
-            "to": [16, 31, 9],
-            "rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 15]},
-            "faces": {
-                "north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-                "east": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "south": {"uv": [0, 0, 16, 16], "texture": "#0"},
-                "west": {"uv": [0, 0, 1, 0.5], "texture": "#0"}
-            }
-        },
-        {
-            "from": [0, 0, 0],
-            "to": [16, 1, 16],
-            "faces": {
-                "north": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "east": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "south": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "west": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "up": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "down": {"uv": [0, 0, 1, 0.5], "texture": "#0"}
-            }
-        },
-        {
-            "from": [0, 31, 0],
-            "to": [16, 32, 16],
-            "rotation": {"angle": 0, "axis": "y", "origin": [8, 39, 8]},
-            "faces": {
-                "north": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "east": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "south": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "west": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "up": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
-                "down": {"uv": [0, 0, 1, 0.5], "texture": "#0"}
-            }
-        }
-    ]
+	"credit": "Made by OLLIEZ4",
+	"parent": "space:block/template_block_2_tall",
+	"texture_size": [16, 32],
+	"textures": {
+		"0": "space:block/airlock_door",
+		"particle": "space:block/airlock_door"
+	},
+	"elements": [
+		{
+			"from": [0, 1, 7],
+			"to": [16, 31, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 31, 0],
+			"to": [16, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 39, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 1, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 1, 0.5], "texture": "#0"}
+			}
+		}
+	]
 }

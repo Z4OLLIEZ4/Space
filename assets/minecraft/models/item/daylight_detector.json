@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/daylight_detector",
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:block/solar_panel"}
-    ]
+	"parent": "minecraft:block/daylight_detector",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/solar_panel"}
+	]
 }

@@ -1,0 +1,56 @@
+{
+	"airlock": {
+		"sounds": [
+			"space:airlock_door"
+		],
+		"subtitle": "Airlock Door opens"
+	},
+	"airlock_close": {
+		"sounds": [
+			"space:airlock_door_close"
+		],
+		"subtitle": "Airlock Door closes"
+	},
+	"elevator": {
+		"sounds": [
+			"space:elevator"
+		],
+		"subtitle": "Elevator used"
+	},
+	"lightsaber_swing": {
+		"sounds": [
+			"space:lightsaber_swing"
+		],
+		"subtitle": "Lightsaber swings"
+	},
+	"lightsaber_on": {
+		"sounds": [
+			"space:lightsaber_on"
+		],
+		"subtitle": "Lightsaber activates"
+	},
+	"lightsaber_off": {
+		"sounds": [
+			"space:lightsaber_off"
+		],
+		"subtitle": "Lightsaber deactivates"
+	},
+	"trashcan_open": {
+		"sounds": [
+			"space:trashcan_open"
+		],
+		"subtitle": "Trash Can opens"
+	},
+	"trashcan_close": {
+		"sounds": [
+			"space:trashcan_close"
+		],
+		"subtitle": "Trash Can closes"
+	},
+	"photonic_barrier": {
+		"sounds": [
+			"space:photonic_barrier"
+		],
+		"subtitle": "Photonic Barrier deployed"
+	}
+}

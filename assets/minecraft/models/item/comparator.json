@@ -1,12 +1,12 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "minecraft:item/comparator"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:item/circuit_board"},
-        {"predicate": {"custom_model_data": 1234568}, "model": "space:gui/modules/breath_dampener"},
-        {"predicate": {"custom_model_data": 1234569}, "model": "space:item/advanced_circuit_board"},
-        {"predicate": {"custom_model_data": 1234570}, "model": "space:item/modular_controller"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/comparator"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/circuit_board"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/modules/breath_dampener"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/advanced_circuit_board"},
+		{"predicate": {"custom_model_data": 1234570}, "model": "space:item/modular_controller"}
+	]
 }

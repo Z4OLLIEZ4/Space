@@ -1,7 +1,7 @@
 {
-    "parent": "minecraft:block/glass",
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:item/photonic_barrier"},
-        {"predicate": {"custom_model_data": 1234568}, "model": "space:item/oxygen_mask"}
-    ]
+	"parent": "minecraft:block/glass",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/photonic_barrier"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/oxygen_mask"}
+	]
 }

@@ -1,11 +1,11 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "minecraft:item/bone_meal"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:item/emergency_kit"},
-        {"predicate": {"custom_model_data": 1234568}, "model": "space:gui/nuclear_reactor_gui"},
-        {"predicate": {"custom_model_data": 1234569}, "model": "space:gui/nuclear_reactor_gui_off"}
-    ]
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/bone_meal"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/emergency_kit"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:gui/nuclear_reactor_gui"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:gui/nuclear_reactor_gui_off"}
+	]
 }

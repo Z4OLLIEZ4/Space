@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/dropper",
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:block/artificial_gravity_generator"}
-    ]
+	"parent": "minecraft:block/dropper",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/artificial_gravity_generator"}
+	]
 }

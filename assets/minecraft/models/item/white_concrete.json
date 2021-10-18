@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/white_concrete",
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:item/lunchbox"}
-    ]
+	"parent": "minecraft:block/white_concrete",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/lunchbox"}
+	]
 }

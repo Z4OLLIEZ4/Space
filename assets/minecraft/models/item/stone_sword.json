@@ -1,16 +1,17 @@
 {
-    "parent": "minecraft:item/handheld",
-    "textures": {
-        "layer0": "minecraft:item/stone_sword"
-    },
-    "overrides": [
-        {"predicate": {"custom_model_data":1234567}, "model": "space:item/lightsabers/lightsaber_off"},
-        {"predicate": {"custom_model_data":1234568}, "model": "space:item/lightsabers/lightsaber_on"},
-        {"predicate": {"custom_model_data":1234569}, "model": "space:item/lightsabers/anakin_off"},
-        {"predicate": {"custom_model_data":1234570}, "model": "space:item/lightsabers/anakin_on"},
-        {"predicate": {"custom_model_data":1234571}, "model": "space:item/lightsabers/vader_off"},
-        {"predicate": {"custom_model_data":1234572}, "model": "space:item/lightsabers/vader_on"},
-        {"predicate": {"custom_model_data":1234573}, "model": "space:item/lightsabers/dark_off"},
-        {"predicate": {"custom_model_data":1234574}, "model": "space:item/lightsabers/dark_on"}
-    ]
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "minecraft:item/stone_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1234567}, "model": "space:item/lightsabers/lightsaber_off"},
+		{"predicate": {"custom_model_data":1234568}, "model": "space:item/lightsabers/lightsaber_on"},
+		{"predicate": {"custom_model_data":1234569}, "model": "space:item/lightsabers/anakin_off"},
+		{"predicate": {"custom_model_data":1234570}, "model": "space:item/lightsabers/anakin_on"},
+		{"predicate": {"custom_model_data":1234571}, "model": "space:item/lightsabers/vader_off"},
+		{"predicate": {"custom_model_data":1234572}, "model": "space:item/lightsabers/vader_on"},
+		{"predicate": {"custom_model_data":1234573}, "model": "space:item/lightsabers/dark_off"},
+		{"predicate": {"custom_model_data":1234574}, "model": "space:item/lightsabers/dark_on"},
+		{"predicate": {"custom_model_data":1234599}, "model": "space:item/lightsabers/tipsysaber_on"}
+	]
 }

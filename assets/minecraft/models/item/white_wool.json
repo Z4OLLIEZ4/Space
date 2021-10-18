@@ -1,7 +1,19 @@
 {
-    "parent": "minecraft:block/white_wool",
-    "overrides": [
-        {"predicate": {"custom_model_data": 1234567}, "model": "space:block/flag"},
-        {"predicate": {"custom_model_data": 1234568}, "model": "space:block/elevator"}
-    ]
+	"parent": "minecraft:block/white_wool",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1234567}, "model": "space:block/flags/us"},
+		{"predicate": {"custom_model_data": 1234568}, "model": "space:block/flags/uk"},
+		{"predicate": {"custom_model_data": 1234569}, "model": "space:block/elevator"},
+		{"predicate": {"custom_model_data": 1234570}, "model": "space:block/flags/russia"},
+		{"predicate": {"custom_model_data": 1234571}, "model": "space:block/flags/france"},
+		{"predicate": {"custom_model_data": 1234572}, "model": "space:block/flags/spain"},
+		{"predicate": {"custom_model_data": 1234573}, "model": "space:block/flags/scotland"},
+		{"predicate": {"custom_model_data": 1234574}, "model": "space:block/flags/ireland"},
+		{"predicate": {"custom_model_data": 1234575}, "model": "space:block/flags/canada"},
+		{"predicate": {"custom_model_data": 1234576}, "model": "space:block/flags/mexico"},
+		{"predicate": {"custom_model_data": 1234577}, "model": "space:block/flags/germany"},
+		{"predicate": {"custom_model_data": 1234578}, "model": "space:block/flags/argentina"},
+		{"predicate": {"custom_model_data": 1234579}, "model": "space:block/flags/czech"},
+		{"predicate": {"custom_model_data": 1234580}, "model": "space:block/flags/space"}
+	]
 }

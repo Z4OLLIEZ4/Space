@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "space:gui/modules/breath_dampener"
-    }
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "space:gui/modules/breath_dampener"
+	}
 }
