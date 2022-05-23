@@ -6,6 +6,7 @@ Welcome to the official Space wiki page. Navigate to pages using the categories 
 
 * [Discord support server](https://discord.com/invite/XR8bbm6)
 * [Spigot page](https://www.spigotmc.org/resources/space.59572/)
+* [Converting from pre-rewritten](https://github.com/Z4OLLIEZ4/Space/wiki/legacy-conversion)
 
 ## Getting started
 
