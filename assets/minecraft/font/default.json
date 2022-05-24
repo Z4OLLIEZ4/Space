@@ -1,0 +1,904 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF801"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF802"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF803"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF804"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF805"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF806"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF807"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF808"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF809"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF80A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF80B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 270,
+            "chars": [
+                "\uE197"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 293,
+            "chars": [
+                "\uE195"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 230,
+            "chars": [
+                "\uE194"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -117,
+            "chars": [
+                "\uE193"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -133,
+            "chars": [
+                "\uE192"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF80C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -166,
+            "chars": [
+                "\uE199"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -115,
+            "chars": [
+                "\uE198"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -117,
+            "chars": [
+                "\uE196"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF80D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF80E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF80F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF800"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF821"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF822"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF823"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF824"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF825"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF826"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF827"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF828"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF829"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF82A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF82B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF82C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF82D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF82E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF82F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF820"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF811"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -4,
+            "chars": [
+                "\uF812"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -5,
+            "chars": [
+                "\uF813"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -6,
+            "chars": [
+                "\uF814"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -7,
+            "chars": [
+                "\uF815"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -8,
+            "chars": [
+                "\uF816"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -9,
+            "chars": [
+                "\uF817"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -10,
+            "chars": [
+                "\uF818"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -18,
+            "chars": [
+                "\uF819"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -34,
+            "chars": [
+                "\uF81A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uF81B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -130,
+            "chars": [
+                "\uF81C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -258,
+            "chars": [
+                "\uF81D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -514,
+            "chars": [
+                "\uF81E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": -1026,
+            "chars": [
+                "\uF81F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": -32770,
+            "chars": [
+                "\uF810"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 0,
+            "chars": [
+                "\uF831"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1,
+            "chars": [
+                "\uF832"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 2,
+            "chars": [
+                "\uF833"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 3,
+            "chars": [
+                "\uF834"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 4,
+            "chars": [
+                "\uF835"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 5,
+            "chars": [
+                "\uF836"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 6,
+            "chars": [
+                "\uF837"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 7,
+            "chars": [
+                "\uF838"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 15,
+            "chars": [
+                "\uF839"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 31,
+            "chars": [
+                "\uF83A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 63,
+            "chars": [
+                "\uF83B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 127,
+            "chars": [
+                "\uF83C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 255,
+            "chars": [
+                "\uF83D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 511,
+            "chars": [
+                "\uF83E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -32768,
+            "height": 1023,
+            "chars": [
+                "\uF83F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_nosplit.png",
+            "ascent": -65536,
+            "height": 32767,
+            "chars": [
+                "\uF830"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/0.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE200"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/1.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE201"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/2.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE202"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/3.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE203"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/4.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE204"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/5.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE205"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/6.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE206"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/7.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE207"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/8.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE208"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/9.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE209"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/10.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE210"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/11.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE211"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/12.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE212"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/13.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE213"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/oxygen/14.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE214"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/fullgui.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE215"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/uppergui.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE216"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/rocketgui.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE217"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/suit_fabricator.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE218"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/suit_fabricator_extended.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE226"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/suit_fabricator_slotted.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE227"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/suit_fabricator_craft.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE219"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/gboots_enabled.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE220"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/gboots_disabled.png",
+            "ascent": -1,
+            "height": 64,
+            "chars": [
+                "\uE221"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/lunchbox.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE222"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/modular_workbench.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE223"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/charging_station.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE224"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/quantum_workbench.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE225"
+            ]
+        }
+    ]
+}

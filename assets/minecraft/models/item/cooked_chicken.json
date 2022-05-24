@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/cooked_chicken"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/chicken_nugget"}
+		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/chicken_nugget"}
 	]
 }

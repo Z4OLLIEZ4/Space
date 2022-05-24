@@ -1,6 +1,6 @@
 {
 	"credit": "Violet (@LocalViolet) made this!",
-	"parent": "space:block/template_block_1_tall_energy",
+	"parent": "space:block/template_block_1_tall",
 	"texture_size": [128, 128],
 	"textures": {
 		"0": "space:block/tank_refiller",

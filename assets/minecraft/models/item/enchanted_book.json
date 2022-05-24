@@ -4,7 +4,7 @@
 		"layer0": "minecraft:item/enchanted_book"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/space_guide"},
-		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/space_cheat_guide"}
+		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/space_guide"},
+		{"predicate": {"custom_model_data": 1230001}, "model": "space:item/space_cheat_guide"}
 	]
 }

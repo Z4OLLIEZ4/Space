@@ -4,6 +4,6 @@
 		"layer0": "minecraft:item/golden_pickaxe"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/titanium_pickaxe"}
+		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/titanium_pickaxe"}
 	]
 }

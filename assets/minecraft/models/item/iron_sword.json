@@ -4,9 +4,15 @@
 		"layer0": "minecraft:item/iron_sword"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/adamantium_sword"},
-		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/ender_sword"},
-		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/fire_sword"},
-		{"predicate": {"custom_model_data": 1234570}, "model": "space:item/katana"}
+		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/adamantium_sword"},
+		{"predicate": {"custom_model_data": 1230001}, "model": "space:item/katana"},
+		{"predicate": {"custom_model_data": 1230002}, "model": "space:item/light_oxygen_tank"},
+		{"predicate": {"custom_model_data": 1230003}, "model": "space:item/medium_oxygen_tank"},
+		{"predicate": {"custom_model_data": 1230004}, "model": "space:item/heavy_oxygen_tank"},
+		{"predicate": {"custom_model_data": 1230005}, "model": "space:item/battery"},
+		{"predicate": {"custom_model_data": 1230006}, "model": "space:item/blast_resistance_core"},
+		{"predicate": {"custom_model_data": 1230007}, "model": "space:item/wrench"},
+		{"predicate": {"custom_model_data": 1230008}, "model": "space:item/titanium_gauntlet"},
+		{"predicate": {"custom_model_data": 1230009}, "model": "space:item/coolant_cell"}
 	]
 }

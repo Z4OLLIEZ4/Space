@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "space:item/aluminium_alloy_ingot"
+		"layer0": "space:item/reinforced_aluminium_alloy_ingot"
 	}
 }

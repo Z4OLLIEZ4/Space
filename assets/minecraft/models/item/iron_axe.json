@@ -4,8 +4,6 @@
 		"layer0": "minecraft:item/iron_axe"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:gui/sword_editor/fix"},
-		{"predicate": {"custom_model_data": 1234568}, "model": "space:item/chainsaw"},
-		{"predicate": {"custom_model_data": 1234569}, "model": "space:item/titanium_gauntlet"}
+		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/chainsaw"}
 	]
 }

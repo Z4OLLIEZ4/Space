@@ -5,6 +5,10 @@
 		"layer1": "minecraft:item/leather_boots_overlay"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/hazmat_boots"}
+		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/voyager_1_boots"},
+		{"predicate": {"custom_model_data": 1230001}, "model": "space:item/rogue_boots"},
+		{"predicate": {"custom_model_data": 1230002}, "model": "space:item/explorer_boots"},
+		{"predicate": {"custom_model_data": 1230003}, "model": "space:item/hazmat_boots"},
+		{"predicate": {"custom_model_data": 1230004}, "model": "space:item/gboots"}
 	]
 }

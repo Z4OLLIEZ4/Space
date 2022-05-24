@@ -5,6 +5,10 @@
 		"layer1": "minecraft:item/leather_chestplate_overlay"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1234567}, "model": "space:item/hazmat_chestplate"}
+		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/voyager_1_chestplate"},
+		{"predicate": {"custom_model_data": 1230001}, "model": "space:item/rogue_chestplate"},
+		{"predicate": {"custom_model_data": 1230002}, "model": "space:item/explorer_chestplate"},
+		{"predicate": {"custom_model_data": 1230003}, "model": "space:item/hazmat_chestplate"},
+		{"predicate": {"custom_model_data": 1230004}, "model": "space:item/galactic_chestplate"}
 	]
 }

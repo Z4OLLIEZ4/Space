@@ -1,6 +1,6 @@
 {
 	"credit": "Made by DalekCraft",
-	"parent": "space:block/template_block_1_tall_energy",
+	"parent": "space:block/template_block_1_tall",
 	"textures": {
 		"0": "minecraft:block/stonecutter_bottom",
 		"1": "space:block/earth",
