@@ -8,6 +8,10 @@
 		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/voyager_1_leggings"},
 		{"predicate": {"custom_model_data": 1230001}, "model": "space:item/rogue_leggings"},
 		{"predicate": {"custom_model_data": 1230002}, "model": "space:item/explorer_leggings"},
-		{"predicate": {"custom_model_data": 1230003}, "model": "space:item/hazmat_leggings"}
+		{"predicate": {"custom_model_data": 1230003}, "model": "space:item/hazmat_leggings"},
+		{"predicate": {"custom_model_data": 1230006}, "model": "space:item/voyager_1_leggings"},
+		{"predicate": {"custom_model_data": 1230007}, "model": "space:item/voyager_1_leggings"},
+		{"predicate": {"custom_model_data": 1230008}, "model": "space:item/voyager_1_leggings"},
+		{"predicate": {"custom_model_data": 1230009}, "model": "space:item/voyager_1_leggings"}
 	]
 }

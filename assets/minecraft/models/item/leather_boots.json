@@ -9,6 +9,10 @@
 		{"predicate": {"custom_model_data": 1230001}, "model": "space:item/rogue_boots"},
 		{"predicate": {"custom_model_data": 1230002}, "model": "space:item/explorer_boots"},
 		{"predicate": {"custom_model_data": 1230003}, "model": "space:item/hazmat_boots"},
-		{"predicate": {"custom_model_data": 1230004}, "model": "space:item/gboots"}
+		{"predicate": {"custom_model_data": 1230004}, "model": "space:item/gboots"},
+		{"predicate": {"custom_model_data": 1230006}, "model": "space:item/voyager_1_boots"},
+		{"predicate": {"custom_model_data": 1230007}, "model": "space:item/voyager_1_boots"},
+		{"predicate": {"custom_model_data": 1230008}, "model": "space:item/voyager_1_boots"},
+		{"predicate": {"custom_model_data": 1230009}, "model": "space:item/voyager_1_boots"}
 	]
 }
