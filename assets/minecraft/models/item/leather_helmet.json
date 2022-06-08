@@ -13,6 +13,7 @@
 		{"predicate": {"custom_model_data": 1230006}, "model": "space:item/voyager_icon"},
 		{"predicate": {"custom_model_data": 1230007}, "model": "space:item/voyager_icon"},
 		{"predicate": {"custom_model_data": 1230008}, "model": "space:item/voyager_icon"},
-		{"predicate": {"custom_model_data": 1230009}, "model": "space:item/voyager_icon"}
+		{"predicate": {"custom_model_data": 1230009}, "model": "space:item/voyager_icon"},
+		{"predicate": {"custom_model_data": 1230011}, "model": "space:item/wooly_hat"}
 	]
 }

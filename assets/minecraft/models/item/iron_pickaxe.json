@@ -6,8 +6,6 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/aluminium_alloy_pickaxe"},
 		{"predicate": {"custom_model_data": 1230001}, "model": "space:item/palladium_pickaxe"},
-		{"predicate": {"custom_model_data": 1230002}, "model": "space:item/reinforced_aluminium_alloy_pickaxe"},
-		{"predicate": {"custom_model_data": 1230003}, "model": "space:item/reinforced_palladium_pickaxe"},
 		{"predicate": {"custom_model_data": 1230004}, "model": "space:item/rotary_saw"}
 	]
 }
