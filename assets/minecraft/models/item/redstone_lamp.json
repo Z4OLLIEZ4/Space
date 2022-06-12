@@ -305,6 +305,7 @@
 		{"predicate": {"custom_model_data": 1230303}, "model": "space:block/infinite_battery"},
 		{"predicate": {"custom_model_data": 1230304}, "model": "space:item/infinite_battery"},
 		{"predicate": {"custom_model_data": 1230305}, "model": "space:block/airlock_door"},
-		{"predicate": {"custom_model_data": 1230306}, "model": "space:gui/money"}
+		{"predicate": {"custom_model_data": 1230306}, "model": "space:gui/money"},
+		{"predicate": {"custom_model_data": 1230307}, "model": "space:item/medkit"}
 	]
 }

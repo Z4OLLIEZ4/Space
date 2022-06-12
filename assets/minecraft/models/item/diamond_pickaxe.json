@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "minecraft:item/iron_pickaxe"
+		"layer0": "minecraft:item/diamond_pickaxe"
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1230000}, "model": "space:item/reinforced_aluminium_alloy_pickaxe"},
