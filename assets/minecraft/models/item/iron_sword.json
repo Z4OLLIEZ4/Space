@@ -14,6 +14,7 @@
 		{"predicate": {"custom_model_data": 1230007}, "model": "space:item/wrench"},
 		{"predicate": {"custom_model_data": 1230008}, "model": "space:item/titanium_gauntlet"},
 		{"predicate": {"custom_model_data": 1230009}, "model": "space:item/coolant_cell"},
-		{"predicate": {"custom_model_data": 1230010}, "model": "space:item/handheld_fan"}
+		{"predicate": {"custom_model_data": 1230010}, "model": "space:item/handheld_fan"},
+		{"predicate": {"custom_model_data": 1230011}, "model": "space:item/handheld_teleporter"}
 	]
 }
