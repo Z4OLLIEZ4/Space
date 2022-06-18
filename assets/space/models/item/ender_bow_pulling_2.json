@@ -1,6 +1,0 @@
-{
-	"parent": "space:item/ender_bow",
-	"textures": {
-		"layer0": "space:item/ender_bow_pulling_2"
-	}
-}

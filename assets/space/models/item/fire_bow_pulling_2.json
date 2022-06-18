@@ -1,6 +1,0 @@
-{
-	"parent": "space:item/fire_bow",
-	"textures": {
-		"layer0": "space:item/fire_bow_pulling_2"
-	}
-}
