@@ -308,6 +308,7 @@
 		{"predicate": {"custom_model_data": 1230306}, "model": "space:gui/money"},
 		{"predicate": {"custom_model_data": 1230307}, "model": "space:item/medkit"},
 		{"predicate": {"custom_model_data": 1230308}, "model": "space:item/portable_workbench"},
-		{"predicate": {"custom_model_data": 1230309}, "model": "space:item/portable_ender_chest"}
+		{"predicate": {"custom_model_data": 1230309}, "model": "space:item/portable_ender_chest"},
+		{"predicate": {"custom_model_data": 1230310}, "model": "space:block/flags/ukraine"}
 	]
 }
