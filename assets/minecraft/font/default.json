@@ -839,6 +839,15 @@
         },
         {
             "type": "bitmap",
+            "file": "space:gui/electric_furnace.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE228"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "space:gui/suit_fabricator_craft.png",
             "ascent": 12,
             "height": 256,

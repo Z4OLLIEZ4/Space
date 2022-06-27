@@ -309,6 +309,9 @@
 		{"predicate": {"custom_model_data": 1230307}, "model": "space:item/medkit"},
 		{"predicate": {"custom_model_data": 1230308}, "model": "space:item/portable_workbench"},
 		{"predicate": {"custom_model_data": 1230309}, "model": "space:item/portable_ender_chest"},
-		{"predicate": {"custom_model_data": 1230310}, "model": "space:block/flags/ukraine"}
+		{"predicate": {"custom_model_data": 1230310}, "model": "space:block/flags/ukraine"},
+		{"predicate": {"custom_model_data": 1230311}, "model": "space:block/flags/australia"},
+		{"predicate": {"custom_model_data": 1230312}, "model": "space:block/block_breaker"},
+		{"predicate": {"custom_model_data": 1230313}, "model": "space:block/electric_furnace"}
 	]
 }
