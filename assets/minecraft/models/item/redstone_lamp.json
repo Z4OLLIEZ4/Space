@@ -312,6 +312,14 @@
 		{"predicate": {"custom_model_data": 1230310}, "model": "space:block/flags/ukraine"},
 		{"predicate": {"custom_model_data": 1230311}, "model": "space:block/flags/australia"},
 		{"predicate": {"custom_model_data": 1230312}, "model": "space:block/block_breaker"},
-		{"predicate": {"custom_model_data": 1230313}, "model": "space:block/electric_furnace"}
+		{"predicate": {"custom_model_data": 1230313}, "model": "space:block/electric_furnace"},
+		{"predicate": {"custom_model_data": 1230314}, "model": "space:item/aluminium_alloy_dust"},
+		{"predicate": {"custom_model_data": 1230315}, "model": "space:item/palladium_dust"},
+		{"predicate": {"custom_model_data": 1230316}, "model": "space:item/titanium_dust"},
+		{"predicate": {"custom_model_data": 1230317}, "model": "space:item/lead_dust"},
+		{"predicate": {"custom_model_data": 1230318}, "model": "space:item/iron_dust"},
+		{"predicate": {"custom_model_data": 1230319}, "model": "space:item/copper_dust"},
+		{"predicate": {"custom_model_data": 1230320}, "model": "space:item/gold_dust"},
+		{"predicate": {"custom_model_data": 1230321}, "model": "space:block/pulverizer"}
 	]
 }
