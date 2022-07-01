@@ -10,6 +10,7 @@
 		{"predicate": {"custom_model_data": 1230002}, "model": "space:item/explorer_helmet"},
 		{"predicate": {"custom_model_data": 1230003}, "model": "space:item/hazmat_helmet"},
 		{"predicate": {"custom_model_data": 1230004}, "model": "space:item/solar_helmet"},
+		{"predicate": {"custom_model_data": 1230005}, "model": "space:item/techno_crown"},
 		{"predicate": {"custom_model_data": 1230006}, "model": "space:item/voyager_icon"},
 		{"predicate": {"custom_model_data": 1230007}, "model": "space:item/voyager_icon"},
 		{"predicate": {"custom_model_data": 1230008}, "model": "space:item/voyager_icon"},
