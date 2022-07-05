@@ -324,6 +324,10 @@
 		{"predicate": {"custom_model_data": 1230322}, "model": "space:item/parachute"},
 		{"predicate": {"custom_model_data": 1230323}, "model": "space:block/electric_arc_furnace"},
 		{"predicate": {"custom_model_data": 1230324}, "model": "space:block/flags/technoblade"},
-		{"predicate": {"custom_model_data": 1230325}, "model": "space:block/forcefield_generator"}
+		{"predicate": {"custom_model_data": 1230325}, "model": "space:block/forcefield_generator"},
+		{"predicate": {"custom_model_data": 1230326}, "model": "space:gui/previous_page_off"},
+		{"predicate": {"custom_model_data": 1230327}, "model": "space:gui/previous_page_on"},
+		{"predicate": {"custom_model_data": 1230328}, "model": "space:gui/next_page_off"},
+		{"predicate": {"custom_model_data": 1230329}, "model": "space:gui/next_page_on"}
 	]
 }
