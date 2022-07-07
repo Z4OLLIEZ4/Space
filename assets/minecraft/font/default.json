@@ -848,6 +848,15 @@
         },
         {
             "type": "bitmap",
+            "file": "space:gui/forcefield_generator.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE229"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "space:gui/suit_fabricator_craft.png",
             "ascent": 12,
             "height": 256,

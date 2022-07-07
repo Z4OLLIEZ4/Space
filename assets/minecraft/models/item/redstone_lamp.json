@@ -328,6 +328,8 @@
 		{"predicate": {"custom_model_data": 1230326}, "model": "space:gui/previous_page_off"},
 		{"predicate": {"custom_model_data": 1230327}, "model": "space:gui/previous_page_on"},
 		{"predicate": {"custom_model_data": 1230328}, "model": "space:gui/next_page_off"},
-		{"predicate": {"custom_model_data": 1230329}, "model": "space:gui/next_page_on"}
+		{"predicate": {"custom_model_data": 1230329}, "model": "space:gui/next_page_on"},
+		{"predicate": {"custom_model_data": 1230330}, "model": "space:gui/add_user"},
+		{"predicate": {"custom_model_data": 1230331}, "model": "space:gui/remove_user"}
 	]
 }
