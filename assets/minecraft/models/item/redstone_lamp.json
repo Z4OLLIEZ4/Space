@@ -330,6 +330,11 @@
 		{"predicate": {"custom_model_data": 1230328}, "model": "space:gui/next_page_off"},
 		{"predicate": {"custom_model_data": 1230329}, "model": "space:gui/next_page_on"},
 		{"predicate": {"custom_model_data": 1230330}, "model": "space:gui/add_user"},
-		{"predicate": {"custom_model_data": 1230331}, "model": "space:gui/remove_user"}
+		{"predicate": {"custom_model_data": 1230331}, "model": "space:gui/remove_user"},
+		{"predicate": {"custom_model_data": 1230332}, "model": "space:block/enchanter"},
+		{"predicate": {"custom_model_data": 1230333}, "model": "space:block/disenchanter"},
+		{"predicate": {"custom_model_data": 1230334}, "model": "space:block/block_placer"},
+		{"predicate": {"custom_model_data": 1230335}, "model": "space:block/solar_panel_quantum_on"},
+		{"predicate": {"custom_model_data": 1230336}, "model": "space:block/air_conditioner"}
 	]
 }

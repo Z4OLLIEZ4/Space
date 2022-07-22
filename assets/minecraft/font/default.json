@@ -857,6 +857,24 @@
         },
         {
             "type": "bitmap",
+            "file": "space:gui/enchanter.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE230"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:gui/disenchanter.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE231"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "space:gui/suit_fabricator_craft.png",
             "ascent": 12,
             "height": 256,
