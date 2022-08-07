@@ -335,6 +335,14 @@
 		{"predicate": {"custom_model_data": 1230333}, "model": "space:block/disenchanter"},
 		{"predicate": {"custom_model_data": 1230334}, "model": "space:block/block_placer"},
 		{"predicate": {"custom_model_data": 1230335}, "model": "space:block/solar_panel_quantum_on"},
-		{"predicate": {"custom_model_data": 1230336}, "model": "space:block/air_conditioner"}
+		{"predicate": {"custom_model_data": 1230336}, "model": "space:block/air_conditioner"},
+		{"predicate": {"custom_model_data": 1230337}, "model": "space:block/flags/greece"},
+		{"predicate": {"custom_model_data": 1230338}, "model": "space:block/flags/eu"},
+		{"predicate": {"custom_model_data": 1230339}, "model": "space:block/flags/nasa"},
+		{"predicate": {"custom_model_data": 1230340}, "model": "space:block/flags/jaxa"},
+		{"predicate": {"custom_model_data": 1230341}, "model": "space:block/flags/esa"},
+		{"predicate": {"custom_model_data": 1230342}, "model": "space:block/flags/ussr"},
+		{"predicate": {"custom_model_data": 1230343}, "model": "space:block/flags/apollo"},
+		{"predicate": {"custom_model_data": 1230344}, "model": "space:block/flags/artemis"}
 	]
 }
