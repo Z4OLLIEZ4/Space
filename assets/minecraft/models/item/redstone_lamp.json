@@ -344,6 +344,13 @@
 		{"predicate": {"custom_model_data": 1230342}, "model": "space:block/flags/ussr"},
 		{"predicate": {"custom_model_data": 1230343}, "model": "space:block/flags/apollo"},
 		{"predicate": {"custom_model_data": 1230344}, "model": "space:block/flags/artemis"},
-		{"predicate": {"custom_model_data": 1230345}, "model": "space:block/charge_pad"}
+		{"predicate": {"custom_model_data": 1230345}, "model": "space:block/charge_pad"},
+		{"predicate": {"custom_model_data": 1230346}, "model": "space:block/bio_reactor"},
+		{"predicate": {"custom_model_data": 1230347}, "model": "space:gui/modules/acid_proof"},
+		{"predicate": {"custom_model_data": 1230348}, "model": "space:block/charge_pad"},
+		{"predicate": {"custom_model_data": 1230349}, "model": "space:block/rover"},
+		{"predicate": {"custom_model_data": 1230350}, "model": "space:item/wheel"},
+		{"predicate": {"custom_model_data": 1230351}, "model": "space:item/chair"},
+		{"predicate": {"custom_model_data": 1230352}, "model": "space:item/antenna"}
 	]
 }
