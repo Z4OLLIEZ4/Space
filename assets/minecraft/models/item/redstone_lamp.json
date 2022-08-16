@@ -350,7 +350,8 @@
 		{"predicate": {"custom_model_data": 1230348}, "model": "space:block/charge_pad"},
 		{"predicate": {"custom_model_data": 1230349}, "model": "space:block/rover"},
 		{"predicate": {"custom_model_data": 1230350}, "model": "space:item/wheel"},
-		{"predicate": {"custom_model_data": 1230351}, "model": "space:item/chair"},
-		{"predicate": {"custom_model_data": 1230352}, "model": "space:item/antenna"}
+		{"predicate": {"custom_model_data": 1230351}, "model": "space:block/chair"},
+		{"predicate": {"custom_model_data": 1230352}, "model": "space:item/antenna"},
+		{"predicate": {"custom_model_data": 1230353}, "model": "space:block/lander"}
 	]
 }
