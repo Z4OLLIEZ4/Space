@@ -10,20 +10,21 @@ Welcome to the official Space wiki page. Navigate to pages using the categories 
 
 ## Getting started
 
-* [Installing the plugin](Installation)
-* [Using the resource pack](Resource-pack)
-* [Commands and Permissions](Commands-and-Permissions)
+* [Installing the plugin](https://github.com/Z4OLLIEZ4/Space/wiki/Installation)
+* [Using the resource pack](https://github.com/Z4OLLIEZ4/Space/wiki/Resource-pack)
+* [Commands and Permissions](https://github.com/Z4OLLIEZ4/Space/wiki/Commands-and-Permissions)
 
 ## Tutorials and features
 
-* [Get started on your adventure across the cosmos](Starting-guide)
-* [Custom items](Custom-Items)
-* [Custom enchantments](Custom-Enchantments)
-* [Space Stations](Space-Station)
-* [Creating and using Command Signs](Command-Signs)
-* [Custom mobs](Custom-Mobs)
-* [Effects of space exposure](Effects-of-Space-Exposure)
-* [Placeholders](Placeholders)
+* [Get started on your adventure across the cosmos](https://github.com/Z4OLLIEZ4/Space/wiki/Starting-guide)
+* [Custom items](https://github.com/Z4OLLIEZ4/Space/wiki/Custom-Items)
+* [Custom enchantments](https://github.com/Z4OLLIEZ4/Space/wiki/Custom-Enchantments)
+* [Space Stations](https://github.com/Z4OLLIEZ4/Space/wiki/Space-Station)
+* [Creating and using Command Signs](https://github.com/Z4OLLIEZ4/Space/wiki/Command-Signs)
+* [Custom mobs](https://github.com/Z4OLLIEZ4/Space/wiki/Custom-Mobs)
+* [Effects of space exposure](https://github.com/Z4OLLIEZ4/Space/wiki/Effects-of-Space-Exposure)
+* [Placeholders](https://github.com/Z4OLLIEZ4/Space/wiki/Placeholders)
+* [World Configuration](https://github.com/Z4OLLIEZ4/Space/wiki/World-Configuration)
 
 ## API
 
