@@ -812,6 +812,15 @@
         },
         {
             "type": "bitmap",
+            "file": "space:gui/rocketgui_alt.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE232"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "space:gui/suit_fabricator.png",
             "ascent": 12,
             "height": 256,
