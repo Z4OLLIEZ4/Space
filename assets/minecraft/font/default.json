@@ -821,6 +821,15 @@
         },
         {
             "type": "bitmap",
+            "file": "space:gui/teleporter.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE233"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "space:gui/suit_fabricator.png",
             "ascent": 12,
             "height": 256,

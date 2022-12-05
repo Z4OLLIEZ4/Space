@@ -360,6 +360,8 @@
 		{"predicate": {"custom_model_data": 1230358}, "model": "space:gui/next_page_off_alt"},
 		{"predicate": {"custom_model_data": 1230359}, "model": "space:gui/previous_page_on_alt"},
 		{"predicate": {"custom_model_data": 1230360}, "model": "space:gui/previous_page_off_alt"},
-		{"predicate": {"custom_model_data": 1230361}, "model": "space:gui/radius"}
+		{"predicate": {"custom_model_data": 1230361}, "model": "space:gui/radius"},
+		{"predicate": {"custom_model_data": 1230362}, "model": "space:gui/particles"},
+		{"predicate": {"custom_model_data": 1230363}, "model": "space:block/teleporter"}
 	]
 }
