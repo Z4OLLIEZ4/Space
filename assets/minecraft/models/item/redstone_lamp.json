@@ -127,7 +127,6 @@
 		{"predicate": {"custom_model_data": 1230123}, "model": "space:item/gui/energy_meter_sideways/top/5"},
 		{"predicate": {"custom_model_data": 1230124}, "model": "space:item/gui/energy_meter_sideways/top/6"},
 		{"predicate": {"custom_model_data": 1230125}, "model": "space:item/gui/energy_meter_sideways/top/7"},
-		{"predicate": {"custom_model_data": 1230126}, "model": "space:item/gui/border"},
 		{"predicate": {"custom_model_data": 1230127}, "model": "space:item/gui/forward_arrow"},
 		{"predicate": {"custom_model_data": 1230128}, "model": "space:item/gui/back_arrow"},
 		{"predicate": {"custom_model_data": 1230129}, "model": "space:item/gui/oxygen_meter/bottom/0"},
