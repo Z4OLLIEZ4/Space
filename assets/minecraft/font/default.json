@@ -650,7 +650,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/0.png",
+            "file": "space:item/gui/oxygen/0.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -659,7 +659,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/1.png",
+            "file": "space:item/gui/oxygen/1.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -668,7 +668,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/2.png",
+            "file": "space:item/gui/oxygen/2.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -677,7 +677,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/3.png",
+            "file": "space:item/gui/oxygen/3.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -686,7 +686,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/4.png",
+            "file": "space:item/gui/oxygen/4.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -695,7 +695,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/5.png",
+            "file": "space:item/gui/oxygen/5.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -704,7 +704,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/6.png",
+            "file": "space:item/gui/oxygen/6.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -713,7 +713,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/7.png",
+            "file": "space:item/gui/oxygen/7.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -722,7 +722,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/8.png",
+            "file": "space:item/gui/oxygen/8.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -731,7 +731,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/9.png",
+            "file": "space:item/gui/oxygen/9.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -740,7 +740,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/10.png",
+            "file": "space:item/gui/oxygen/10.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -749,7 +749,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/11.png",
+            "file": "space:item/gui/oxygen/11.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -758,7 +758,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/12.png",
+            "file": "space:item/gui/oxygen/12.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -767,7 +767,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/13.png",
+            "file": "space:item/gui/oxygen/13.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -776,7 +776,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/oxygen/14.png",
+            "file": "space:item/gui/oxygen/14.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -785,7 +785,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/fullgui.png",
+            "file": "space:item/gui/fullgui.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -794,7 +794,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/uppergui.png",
+            "file": "space:item/gui/uppergui.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -803,7 +803,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/rocketgui.png",
+            "file": "space:item/gui/rocketgui.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -812,7 +812,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/rocketgui_alt.png",
+            "file": "space:item/gui/rocketgui_alt.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -821,7 +821,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/teleporter.png",
+            "file": "space:item/gui/teleporter.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -830,7 +830,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/suit_fabricator.png",
+            "file": "space:item/gui/suit_fabricator.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -839,7 +839,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/suit_fabricator_extended.png",
+            "file": "space:item/gui/suit_fabricator_extended.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -848,7 +848,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/suit_fabricator_slotted.png",
+            "file": "space:item/gui/suit_fabricator_slotted.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -857,7 +857,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/electric_furnace.png",
+            "file": "space:item/gui/electric_furnace.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -866,7 +866,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/forcefield_generator.png",
+            "file": "space:item/gui/forcefield_generator.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -875,7 +875,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/enchanter.png",
+            "file": "space:item/gui/enchanter.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -884,7 +884,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/disenchanter.png",
+            "file": "space:item/gui/disenchanter.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -893,7 +893,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/suit_fabricator_craft.png",
+            "file": "space:item/gui/suit_fabricator_craft.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -902,7 +902,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/gboots_enabled.png",
+            "file": "space:item/gui/gboots_enabled.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -911,7 +911,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/gboots_disabled.png",
+            "file": "space:item/gui/gboots_disabled.png",
             "ascent": -1,
             "height": 64,
             "chars": [
@@ -920,7 +920,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/lunchbox.png",
+            "file": "space:item/gui/lunchbox.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -929,7 +929,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/modular_workbench.png",
+            "file": "space:item/gui/modular_workbench.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -938,7 +938,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/charging_station.png",
+            "file": "space:item/gui/charging_station.png",
             "ascent": 12,
             "height": 256,
             "chars": [
@@ -947,7 +947,7 @@
         },
         {
             "type": "bitmap",
-            "file": "space:gui/quantum_workbench.png",
+            "file": "space:item/gui/quantum_workbench.png",
             "ascent": 12,
             "height": 256,
             "chars": [

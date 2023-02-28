@@ -1,0 +1,6 @@
+{
+	"parent": "space:item/gui/template_gui",
+	"textures": {
+		"layer0": "space:item/gui/oxygen_meter/middle/5"
+	}
+}

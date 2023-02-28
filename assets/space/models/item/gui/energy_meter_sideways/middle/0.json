@@ -1,0 +1,6 @@
+{
+	"parent": "space:item/gui/template_gui",
+	"textures": {
+		"layer0": "space:item/gui/energy_meter_sideways/middle/0"
+	}
+}

@@ -1,7 +1,0 @@
-{
-	"parent": "space:item/oxygen_tank_visualiser/template_oxygen_tank_visualiser",
-	"textures": {
-		"layer0": "space:item/oxygen_tank_visualiser/oxygen_tank_visualiser_5",
-		"particle": "space:item/oxygen_tank_visualiser/oxygen_tank_visualiser_5"
-	}
-}

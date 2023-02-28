@@ -1,0 +1,6 @@
+{
+	"parent": "space:item/gui/template_gui_enlarged",
+	"textures": {
+		"layer0": "space:item/gui/uranium_border"
+	}
+}

@@ -1,6 +1,0 @@
-{
-	"parent": "space:gui/template_gui",
-	"textures": {
-		"layer0": "space:gui/energy_meter_sideways/top/1"
-	}
-}
