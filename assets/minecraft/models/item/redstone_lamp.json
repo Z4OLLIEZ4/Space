@@ -360,6 +360,26 @@
 		{"predicate": {"custom_model_data": 1230360}, "model": "space:item/gui/previous_page_off_alt"},
 		{"predicate": {"custom_model_data": 1230361}, "model": "space:item/gui/radius"},
 		{"predicate": {"custom_model_data": 1230362}, "model": "space:item/gui/particles"},
-		{"predicate": {"custom_model_data": 1230363}, "model": "space:block/teleporter"}
+		{"predicate": {"custom_model_data": 1230363}, "model": "space:block/teleporter"},
+		{"predicate": {"custom_model_data": 1230364}, "model": "space:block/refinery"},
+		{"predicate": {"custom_model_data": 1230365}, "model": "space:item/gui/fuel_meter/0"},
+		{"predicate": {"custom_model_data": 1230366}, "model": "space:item/gui/fuel_meter/1"},
+		{"predicate": {"custom_model_data": 1230367}, "model": "space:item/gui/fuel_meter/2"},
+		{"predicate": {"custom_model_data": 1230368}, "model": "space:item/gui/fuel_meter/3"},
+		{"predicate": {"custom_model_data": 1230369}, "model": "space:item/gui/fuel_meter/4"},
+		{"predicate": {"custom_model_data": 1230370}, "model": "space:item/gui/fuel_meter/5"},
+		{"predicate": {"custom_model_data": 1230371}, "model": "space:item/gui/fuel_meter/6"},
+		{"predicate": {"custom_model_data": 1230372}, "model": "space:item/gui/fuel_meter/7"},
+		{"predicate": {"custom_model_data": 1230373}, "model": "space:item/gui/fuel_meter/8"},
+		{"predicate": {"custom_model_data": 1230374}, "model": "space:item/gui/fuel_meter/9"},
+		{"predicate": {"custom_model_data": 1230375}, "model": "space:item/gui/fuel_meter/10"},
+		{"predicate": {"custom_model_data": 1230376}, "model": "space:item/gui/fuel_meter/11"},
+		{"predicate": {"custom_model_data": 1230377}, "model": "space:item/gui/fuel_meter/12"},
+		{"predicate": {"custom_model_data": 1230378}, "model": "space:item/gui/fuel_meter/13"},
+		{"predicate": {"custom_model_data": 1230379}, "model": "space:item/gui/fuel_meter/14"},
+		{"predicate": {"custom_model_data": 1230380}, "model": "space:item/gui/fuel_meter/15"},
+		{"predicate": {"custom_model_data": 1230381}, "model": "space:item/gui/fuel_meter/16"},
+		{"predicate": {"custom_model_data": 1230382}, "model": "space:block/refinery"},
+		{"predicate": {"custom_model_data": 1230383}, "model": "space:item/portable_generator"}
 	]
 }

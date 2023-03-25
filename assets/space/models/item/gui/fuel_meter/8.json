@@ -1,0 +1,6 @@
+{
+	"parent": "space:item/gui/template_gui_max",
+	"textures": {
+		"layer0": "space:item/gui/fuel_meter/8"
+	}
+}

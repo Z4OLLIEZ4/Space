@@ -17,6 +17,7 @@
 		{"predicate": {"custom_model_data": 1230010}, "model": "space:item/handheld_fan"},
 		{"predicate": {"custom_model_data": 1230011}, "model": "space:item/handheld_teleporter"},
 		{"predicate": {"custom_model_data": 1230012}, "model": "space:item/laser_gun"},
-		{"predicate": {"custom_model_data": 1230013}, "model": "space:item/teleporter_drive"}
+		{"predicate": {"custom_model_data": 1230013}, "model": "space:item/teleporter_drive"},
+		{"predicate": {"custom_model_data": 1230014}, "model": "space:item/rocket_fuel"}
 	]
 }

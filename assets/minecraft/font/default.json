@@ -830,6 +830,15 @@
         },
         {
             "type": "bitmap",
+            "file": "space:item/gui/refinery.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE234"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "space:item/gui/suit_fabricator.png",
             "ascent": 12,
             "height": 256,
