@@ -1,6 +1,0 @@
-{
-	"parent": "space:item/gui/template_gui",
-	"textures": {
-		"layer0": "space:item/gui/left_arrow_piped"
-	}
-}
