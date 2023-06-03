@@ -380,6 +380,11 @@
 		{"predicate": {"custom_model_data": 1230380}, "model": "space:item/gui/fuel_meter/15"},
 		{"predicate": {"custom_model_data": 1230381}, "model": "space:item/gui/fuel_meter/16"},
 		{"predicate": {"custom_model_data": 1230382}, "model": "space:block/refinery"},
-		{"predicate": {"custom_model_data": 1230383}, "model": "space:item/portable_generator"}
+		{"predicate": {"custom_model_data": 1230383}, "model": "space:item/portable_generator"},
+		{"predicate": {"custom_model_data": 1230384}, "model": "space:item/carbon"},
+		{"predicate": {"custom_model_data": 1230385}, "model": "space:item/steel_ingot"},
+		{"predicate": {"custom_model_data": 1230386}, "model": "space:item/steel_dust"},
+		{"predicate": {"custom_model_data": 1230387}, "model": "space:item/steel_nugget"},
+		{"predicate": {"custom_model_data": 1230388}, "model": "space:block/steel_block"}
 	]
 }
