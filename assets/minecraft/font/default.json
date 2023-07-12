@@ -839,6 +839,15 @@
         },
         {
             "type": "bitmap",
+            "file": "space:item/gui/suit_fabricator_craft_alt.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE235"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "space:item/gui/suit_fabricator.png",
             "ascent": 12,
             "height": 256,
