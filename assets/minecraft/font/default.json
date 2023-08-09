@@ -4,96 +4,6 @@
             "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
-            "height": -3,
-            "chars": [
-                "\uF801"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -4,
-            "chars": [
-                "\uF802"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -5,
-            "chars": [
-                "\uF803"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -6,
-            "chars": [
-                "\uF804"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -7,
-            "chars": [
-                "\uF805"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -8,
-            "chars": [
-                "\uF806"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -9,
-            "chars": [
-                "\uF807"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -10,
-            "chars": [
-                "\uF808"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -18,
-            "chars": [
-                "\uF809"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -34,
-            "chars": [
-                "\uF80A"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
             "height": -66,
             "chars": [
                 "\uF80B"
@@ -148,15 +58,6 @@
             "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
-            "height": -130,
-            "chars": [
-                "\uF80C"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
             "height": -166,
             "chars": [
                 "\uE199"
@@ -178,33 +79,6 @@
             "height": -117,
             "chars": [
                 "\uE196"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -258,
-            "chars": [
-                "\uF80D"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -514,
-            "chars": [
-                "\uF80E"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -1026,
-            "chars": [
-                "\uF80F"
             ]
         },
         {
@@ -295,60 +169,6 @@
             "height": 15,
             "chars": [
                 "\uF829"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 31,
-            "chars": [
-                "\uF82A"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 63,
-            "chars": [
-                "\uF82B"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 127,
-            "chars": [
-                "\uF82C"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 255,
-            "chars": [
-                "\uF82D"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 511,
-            "chars": [
-                "\uF82E"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": 1023,
-            "chars": [
-                "\uF82F"
             ]
         },
         {
@@ -970,6 +790,15 @@
             "height": 256,
             "chars": [
                 "\uE225"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uE236"
             ]
         }
     ]
