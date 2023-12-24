@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cyan_stained_glass",
+	"overrides": [
+		{"predicate": {"custom_model_data": 1230001}, "model": "space:block/forcefield"}
+	]
+}

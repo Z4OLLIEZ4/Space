@@ -470,6 +470,15 @@
         },
         {
             "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -66,
+            "chars": [
+                "\uE236"
+            ]
+        }
+        {
+            "type": "bitmap",
             "file": "space:item/gui/oxygen/0.png",
             "ascent": -1,
             "height": 64,
@@ -790,15 +799,6 @@
             "height": 256,
             "chars": [
                 "\uE225"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "space:font/space_split.png",
-            "ascent": -32768,
-            "height": -66,
-            "chars": [
-                "\uE236"
             ]
         }
     ]
