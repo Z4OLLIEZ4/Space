@@ -11,7 +11,6 @@
 		{"predicate": {"custom_model_data":1234571}, "model": "space:item/lightsabers/vader_off"},
 		{"predicate": {"custom_model_data":1234572}, "model": "space:item/lightsabers/vader_on"},
 		{"predicate": {"custom_model_data":1234573}, "model": "space:item/lightsabers/dark_off"},
-		{"predicate": {"custom_model_data":1234574}, "model": "space:item/lightsabers/dark_on"},
-		{"predicate": {"custom_model_data":1234599}, "model": "space:item/lightsabers/tipsysaber_on"}
+		{"predicate": {"custom_model_data":1234574}, "model": "space:item/lightsabers/dark_on"}
 	]
 }
