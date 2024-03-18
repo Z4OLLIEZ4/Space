@@ -15,6 +15,10 @@
 		{"predicate": {"custom_model_data": 1230007}, "model": "space:item/voyager_icon"},
 		{"predicate": {"custom_model_data": 1230008}, "model": "space:item/voyager_icon"},
 		{"predicate": {"custom_model_data": 1230009}, "model": "space:item/voyager_icon"},
-		{"predicate": {"custom_model_data": 1230011}, "model": "space:item/wooly_hat"}
+		{"predicate": {"custom_model_data": 1230011}, "model": "space:item/wooly_hat"},
+		{"predicate": {"custom_model_data": 1230012}, "model": "space:item/iron_oxygen_mask"},
+		{"predicate": {"custom_model_data": 1230013}, "model": "space:item/gold_oxygen_mask"},
+		{"predicate": {"custom_model_data": 1230014}, "model": "space:item/diamond_oxygen_mask"},
+		{"predicate": {"custom_model_data": 1230015}, "model": "space:item/netherite_oxygen_mask"}
 	]
 }
