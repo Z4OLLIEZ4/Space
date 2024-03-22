@@ -14,6 +14,13 @@
 		{"predicate": {"custom_model_data": 1230007}, "model": "space:item/voyager_1_leggings"},
 		{"predicate": {"custom_model_data": 1230008}, "model": "space:item/voyager_1_leggings"},
 		{"predicate": {"custom_model_data": 1230009}, "model": "space:item/voyager_1_leggings"},
-		{"predicate": {"custom_model_data": 1230011}, "model": "space:item/wooly_leggings"}
+		{"predicate": {"custom_model_data": 1230011}, "model": "space:item/wooly_leggings"},
+		{"predicate": {"custom_model_data": 1230016}, "model": "space:item/steel_leggings"},
+		{"predicate": {"custom_model_data": 1230017}, "model": "space:item/lead_leggings"},
+		{"predicate": {"custom_model_data": 1230018}, "model": "space:item/titanium_leggings"},
+		{"predicate": {"custom_model_data": 1230019}, "model": "space:item/aluminium_alloy_leggings"},
+		{"predicate": {"custom_model_data": 1230020}, "model": "space:item/palladium_leggings"},
+		{"predicate": {"custom_model_data": 1230021}, "model": "space:item/reinforced_aluminium_alloy_leggings"},
+		{"predicate": {"custom_model_data": 1230022}, "model": "space:item/reinforced_palladium_leggings"}
 	]
 }

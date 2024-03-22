@@ -19,6 +19,13 @@
 		{"predicate": {"custom_model_data": 1230012}, "model": "space:item/iron_oxygen_mask"},
 		{"predicate": {"custom_model_data": 1230013}, "model": "space:item/gold_oxygen_mask"},
 		{"predicate": {"custom_model_data": 1230014}, "model": "space:item/diamond_oxygen_mask"},
-		{"predicate": {"custom_model_data": 1230015}, "model": "space:item/netherite_oxygen_mask"}
+		{"predicate": {"custom_model_data": 1230015}, "model": "space:item/netherite_oxygen_mask"},
+		{"predicate": {"custom_model_data": 1230016}, "model": "space:item/steel_helmet"},
+		{"predicate": {"custom_model_data": 1230017}, "model": "space:item/lead_helmet"},
+		{"predicate": {"custom_model_data": 1230018}, "model": "space:item/titanium_helmet"},
+		{"predicate": {"custom_model_data": 1230019}, "model": "space:item/aluminium_alloy_helmet"},
+		{"predicate": {"custom_model_data": 1230020}, "model": "space:item/palladium_helmet"},
+		{"predicate": {"custom_model_data": 1230021}, "model": "space:item/reinforced_aluminium_alloy_helmet"},
+		{"predicate": {"custom_model_data": 1230022}, "model": "space:item/reinforced_palladium_helmet"}
 	]
 }
