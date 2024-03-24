@@ -26,6 +26,13 @@
 		{"predicate": {"custom_model_data": 1230019}, "model": "space:item/aluminium_alloy_helmet"},
 		{"predicate": {"custom_model_data": 1230020}, "model": "space:item/palladium_helmet"},
 		{"predicate": {"custom_model_data": 1230021}, "model": "space:item/reinforced_aluminium_alloy_helmet"},
-		{"predicate": {"custom_model_data": 1230022}, "model": "space:item/reinforced_palladium_helmet"}
+		{"predicate": {"custom_model_data": 1230022}, "model": "space:item/reinforced_palladium_helmet"},
+		{"predicate": {"custom_model_data": 1230023}, "model": "space:item/steel_oxygen_mask"},
+		{"predicate": {"custom_model_data": 1230024}, "model": "space:item/lead_oxygen_mask"},
+		{"predicate": {"custom_model_data": 1230025}, "model": "space:item/titanium_oxygen_mask"},
+		{"predicate": {"custom_model_data": 1230026}, "model": "space:item/aluminium_alloy_oxygen_mask"},
+		{"predicate": {"custom_model_data": 1230027}, "model": "space:item/palladium_oxygen_mask"},
+		{"predicate": {"custom_model_data": 1230028}, "model": "space:item/reinforced_aluminium_alloy_oxygen_mask"},
+		{"predicate": {"custom_model_data": 1230029}, "model": "space:item/reinforced_palladium_oxygen_mask"}
 	]
 }
