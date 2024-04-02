@@ -416,6 +416,51 @@
             "chars": [
                 "\uE225"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:item/gui/hud_bar/left.png",
+            "ascent": 8,
+            "height": 18,
+            "chars": [
+                "\uE237"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:item/gui/hud_bar/right.png",
+            "ascent": 8,
+            "height": 18,
+            "chars": [
+                "\uE238"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:item/gui/hud_bar/center_red.png",
+            "ascent": 8,
+            "height": 18,
+            "chars": [
+                "\uE239"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:item/gui/hud_bar/center_green.png",
+            "ascent": 8,
+            "height": 18,
+            "chars": [
+                "\uE240"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
+            "height": -3,
+            "chars": [
+                "\uF801"
+            ]
         }
     ]
 }

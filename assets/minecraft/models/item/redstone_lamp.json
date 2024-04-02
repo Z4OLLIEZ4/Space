@@ -301,6 +301,7 @@
 		{"predicate": {"custom_model_data": 1230300}, "model": "space:block/medium_coolant_cluster"},
 		{"predicate": {"custom_model_data": 1230301}, "model": "space:block/large_coolant_cluster"},
 		{"predicate": {"custom_model_data": 1230302}, "model": "space:block/electrolytic_condenser"},
+		{"predicate": {"custom_model_data": 1230303}, "model": "space:block/emp"},
 		{"predicate": {"custom_model_data": 1230304}, "model": "space:item/infinite_battery"},
 		{"predicate": {"custom_model_data": 1230305}, "model": "space:block/airlock_door"},
 		{"predicate": {"custom_model_data": 1230306}, "model": "space:item/gui/money"},

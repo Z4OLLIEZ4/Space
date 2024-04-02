@@ -52,5 +52,11 @@
 			"space:photonic_barrier"
 		],
 		"subtitle": "Photonic Barrier deployed"
+	},
+	"emp": {
+		"sounds": [
+			"space:emp"
+		],
+		"subtitle": "EMP triggered"
 	}
 }
