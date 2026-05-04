@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/diamond_pickaxe"
+        },
+        "entries": [
+            {
+                "threshold": 1230000,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_aluminium_alloy_pickaxe"
+                }
+            },
+            {
+                "threshold": 1230001,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_palladium_pickaxe"
+                }
+            }
+        ]
+    }
+}

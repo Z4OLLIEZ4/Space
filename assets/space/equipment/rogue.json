@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "space:rogue"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "space:rogue"
+      }
+    ]
+  }
+}

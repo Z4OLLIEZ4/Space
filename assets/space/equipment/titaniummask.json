@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "space:titaniummask"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "space:titaniummask"
+      }
+    ]
+  }
+}

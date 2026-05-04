@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "space:diamondmask"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "space:diamondmask"
+      }
+    ]
+  }
+}

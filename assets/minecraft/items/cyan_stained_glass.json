@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:block/cyan_stained_glass"
+        },
+        "entries": [
+            {
+                "threshold": 1230001,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/forcefield"
+                }
+            },
+            {
+                "threshold": 1230002,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/forcefield_alt"
+                }
+            },
+            {
+                "threshold": 1230003,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/radiation_display"
+                }
+            }
+        ]
+    }
+}

@@ -61,6 +61,15 @@
             "type": "bitmap",
             "file": "space:font/space_split.png",
             "ascent": -32768,
+            "height": -147,
+            "chars": [
+                "\uE191"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:font/space_split.png",
+            "ascent": -32768,
             "height": -166,
             "chars": [
                 "\uE199"
@@ -460,6 +469,15 @@
             "height": -3,
             "chars": [
                 "\uF801"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "space:item/gui/workbench.png",
+            "ascent": 12,
+            "height": 256,
+            "chars": [
+                "\uE241"
             ]
         }
     ]

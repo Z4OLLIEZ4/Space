@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/iron_pickaxe"
+        },
+        "entries": [
+            {
+                "threshold": 1230000,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/aluminium_alloy_pickaxe"
+                }
+            },
+            {
+                "threshold": 1230001,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/palladium_pickaxe"
+                }
+            },
+            {
+                "threshold": 1230004,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/rotary_saw"
+                }
+            },
+            {
+                "threshold": 1230005,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/steel_pickaxe"
+                }
+            },
+            {
+                "threshold": 1230006,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/titanium_pickaxe"
+                }
+            }
+        ]
+    }
+}

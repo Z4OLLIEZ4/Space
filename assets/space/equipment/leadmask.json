@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "space:leadmask"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "space:leadmask"
+      }
+    ]
+  }
+}

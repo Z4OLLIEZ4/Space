@@ -1,0 +1,215 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/leather_helmet"
+        },
+        "entries": [
+            {
+                "threshold": 1230000,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/voyager_icon"
+                }
+            },
+            {
+                "threshold": 1230001,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/rogue_icon"
+                }
+            },
+            {
+                "threshold": 1230002,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/explorer_helmet"
+                }
+            },
+            {
+                "threshold": 1230003,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/hazmat_helmet"
+                }
+            },
+            {
+                "threshold": 1230004,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/solar_helmet"
+                }
+            },
+            {
+                "threshold": 1230005,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/techno_crown"
+                }
+            },
+            {
+                "threshold": 1230006,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/voyager_icon"
+                }
+            },
+            {
+                "threshold": 1230007,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/voyager_icon"
+                }
+            },
+            {
+                "threshold": 1230008,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/voyager_icon"
+                }
+            },
+            {
+                "threshold": 1230009,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/voyager_icon"
+                }
+            },
+            {
+                "threshold": 1230011,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/wooly_hat"
+                }
+            },
+            {
+                "threshold": 1230012,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/iron_oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230013,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gold_oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230014,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/diamond_oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230015,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/netherite_oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230016,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/steel_helmet"
+                }
+            },
+            {
+                "threshold": 1230017,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lead_helmet"
+                }
+            },
+            {
+                "threshold": 1230018,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/titanium_helmet"
+                }
+            },
+            {
+                "threshold": 1230019,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/aluminium_alloy_helmet"
+                }
+            },
+            {
+                "threshold": 1230020,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/palladium_helmet"
+                }
+            },
+            {
+                "threshold": 1230021,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_aluminium_alloy_helmet"
+                }
+            },
+            {
+                "threshold": 1230022,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_palladium_helmet"
+                }
+            },
+            {
+                "threshold": 1230023,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/steel_oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230024,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lead_oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230025,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/titanium_oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230026,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/aluminium_alloy_oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230027,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/palladium_oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230028,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_aluminium_alloy_oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230029,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_palladium_oxygen_mask"
+                }
+            }
+        ]
+    }
+}

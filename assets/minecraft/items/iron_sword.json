@@ -1,0 +1,117 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/iron_sword"
+        },
+        "entries": [
+            {
+                "threshold": 1230000,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/adamantium_sword"
+                }
+            },
+            {
+                "threshold": 1230001,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/katana"
+                }
+            },
+            {
+                "threshold": 1230002,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/light_oxygen_tank"
+                }
+            },
+            {
+                "threshold": 1230003,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/medium_oxygen_tank"
+                }
+            },
+            {
+                "threshold": 1230004,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/heavy_oxygen_tank"
+                }
+            },
+            {
+                "threshold": 1230005,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/battery"
+                }
+            },
+            {
+                "threshold": 1230006,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/blast_resistance_core"
+                }
+            },
+            {
+                "threshold": 1230007,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/wrench"
+                }
+            },
+            {
+                "threshold": 1230008,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/titanium_gauntlet"
+                }
+            },
+            {
+                "threshold": 1230009,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/coolant_cell"
+                }
+            },
+            {
+                "threshold": 1230010,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/handheld_fan"
+                }
+            },
+            {
+                "threshold": 1230011,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/handheld_teleporter"
+                }
+            },
+            {
+                "threshold": 1230012,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/laser_gun"
+                }
+            },
+            {
+                "threshold": 1230013,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/teleporter_drive"
+                }
+            },
+            {
+                "threshold": 1230014,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/rocket_fuel"
+                }
+            }
+        ]
+    }
+}

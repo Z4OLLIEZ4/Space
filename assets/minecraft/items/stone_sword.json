@@ -1,0 +1,68 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/stone_sword"
+        },
+        "entries": [
+            {
+                "threshold": 1234567,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lightsabers/lightsaber_off"
+                }
+            },
+            {
+                "threshold": 1234568,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lightsabers/lightsaber_on"
+                }
+            },
+            {
+                "threshold": 1234569,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lightsabers/anakin_off"
+                }
+            },
+            {
+                "threshold": 1234570,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lightsabers/anakin_on"
+                }
+            },
+            {
+                "threshold": 1234571,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lightsabers/vader_off"
+                }
+            },
+            {
+                "threshold": 1234572,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lightsabers/vader_on"
+                }
+            },
+            {
+                "threshold": 1234573,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lightsabers/dark_off"
+                }
+            },
+            {
+                "threshold": 1234574,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lightsabers/dark_on"
+                }
+            }
+        ]
+    }
+}

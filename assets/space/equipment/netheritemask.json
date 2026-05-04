@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "space:netheritemask"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "space:netheritemask"
+      }
+    ]
+  }
+}

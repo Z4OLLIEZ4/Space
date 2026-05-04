@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "space:explorer"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "space:explorer"
+      }
+    ]
+  }
+}

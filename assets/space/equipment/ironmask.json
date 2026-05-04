@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "space:ironmask"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "space:ironmask"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "space:solarg"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "space:solarg"
+      }
+    ]
+  }
+}

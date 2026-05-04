@@ -1,0 +1,131 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/leather_boots"
+        },
+        "entries": [
+            {
+                "threshold": 1230000,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/voyager_1_boots"
+                }
+            },
+            {
+                "threshold": 1230001,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/rogue_boots"
+                }
+            },
+            {
+                "threshold": 1230002,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/explorer_boots"
+                }
+            },
+            {
+                "threshold": 1230003,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/hazmat_boots"
+                }
+            },
+            {
+                "threshold": 1230004,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gboots"
+                }
+            },
+            {
+                "threshold": 1230006,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/voyager_1_boots"
+                }
+            },
+            {
+                "threshold": 1230007,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/voyager_1_boots"
+                }
+            },
+            {
+                "threshold": 1230008,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/voyager_1_boots"
+                }
+            },
+            {
+                "threshold": 1230009,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/voyager_1_boots"
+                }
+            },
+            {
+                "threshold": 1230011,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/wooly_boots"
+                }
+            },
+            {
+                "threshold": 1230016,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/steel_boots"
+                }
+            },
+            {
+                "threshold": 1230017,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lead_boots"
+                }
+            },
+            {
+                "threshold": 1230018,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/titanium_boots"
+                }
+            },
+            {
+                "threshold": 1230019,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/aluminium_alloy_boots"
+                }
+            },
+            {
+                "threshold": 1230020,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/palladium_boots"
+                }
+            },
+            {
+                "threshold": 1230021,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_aluminium_alloy_boots"
+                }
+            },
+            {
+                "threshold": 1230022,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_palladium_boots"
+                }
+            }
+        ]
+    }
+}

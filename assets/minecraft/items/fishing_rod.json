@@ -1,0 +1,35 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:fishing_rod/cast",
+            "on_false": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod"
+            },
+            "on_true": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/fishing_rod_cast"
+            }
+        },
+        "entries": [
+            {
+                "threshold": 1230000,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "space:item/grappling_hook"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "space:item/grappling_hook_fired"
+                    }
+                }
+            }
+        ]
+    }
+}

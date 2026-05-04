@@ -1,0 +1,2715 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:block/redstone_lamp"
+        },
+        "entries": [
+            {
+                "threshold": 1230000,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/bottom/0"
+                }
+            },
+            {
+                "threshold": 1230001,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/bottom/1"
+                }
+            },
+            {
+                "threshold": 1230002,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/bottom/2"
+                }
+            },
+            {
+                "threshold": 1230003,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/bottom/3"
+                }
+            },
+            {
+                "threshold": 1230004,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/bottom/4"
+                }
+            },
+            {
+                "threshold": 1230005,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/bottom/5"
+                }
+            },
+            {
+                "threshold": 1230006,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/bottom/6"
+                }
+            },
+            {
+                "threshold": 1230007,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/bottom/7"
+                }
+            },
+            {
+                "threshold": 1230008,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/middle/0"
+                }
+            },
+            {
+                "threshold": 1230009,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/middle/1"
+                }
+            },
+            {
+                "threshold": 1230010,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/middle/2"
+                }
+            },
+            {
+                "threshold": 1230011,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/middle/3"
+                }
+            },
+            {
+                "threshold": 1230012,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/middle/4"
+                }
+            },
+            {
+                "threshold": 1230013,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/middle/5"
+                }
+            },
+            {
+                "threshold": 1230014,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/middle/6"
+                }
+            },
+            {
+                "threshold": 1230015,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/middle/7"
+                }
+            },
+            {
+                "threshold": 1230016,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/middle/8"
+                }
+            },
+            {
+                "threshold": 1230017,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/top/0"
+                }
+            },
+            {
+                "threshold": 1230018,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/top/1"
+                }
+            },
+            {
+                "threshold": 1230019,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/top/2"
+                }
+            },
+            {
+                "threshold": 1230020,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/top/3"
+                }
+            },
+            {
+                "threshold": 1230021,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/top/4"
+                }
+            },
+            {
+                "threshold": 1230022,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/top/5"
+                }
+            },
+            {
+                "threshold": 1230023,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/top/6"
+                }
+            },
+            {
+                "threshold": 1230024,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter/top/7"
+                }
+            },
+            {
+                "threshold": 1230025,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/toggle_holograms"
+                }
+            },
+            {
+                "threshold": 1230026,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/border"
+                }
+            },
+            {
+                "threshold": 1230027,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/tick"
+                }
+            },
+            {
+                "threshold": 1230028,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/cross"
+                }
+            },
+            {
+                "threshold": 1230029,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/small_cluster"
+                }
+            },
+            {
+                "threshold": 1230030,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/medium_cluster"
+                }
+            },
+            {
+                "threshold": 1230031,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/large_cluster"
+                }
+            },
+            {
+                "threshold": 1230032,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/base"
+                }
+            },
+            {
+                "threshold": 1230033,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/oxygen_collector"
+                }
+            },
+            {
+                "threshold": 1230034,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/infinite_cluster"
+                }
+            },
+            {
+                "threshold": 1230035,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/oxygen_bubble_distributor"
+                }
+            },
+            {
+                "threshold": 1230036,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/n_e_s_w_u_d"
+                }
+            },
+            {
+                "threshold": 1230037,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/1/n"
+                }
+            },
+            {
+                "threshold": 1230038,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/1/e"
+                }
+            },
+            {
+                "threshold": 1230039,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/1/s"
+                }
+            },
+            {
+                "threshold": 1230040,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/1/w"
+                }
+            },
+            {
+                "threshold": 1230041,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/1/u"
+                }
+            },
+            {
+                "threshold": 1230042,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/1/d"
+                }
+            },
+            {
+                "threshold": 1230043,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/e_d"
+                }
+            },
+            {
+                "threshold": 1230044,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/e_s"
+                }
+            },
+            {
+                "threshold": 1230045,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/e_u"
+                }
+            },
+            {
+                "threshold": 1230046,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/e_w"
+                }
+            },
+            {
+                "threshold": 1230047,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/n_d"
+                }
+            },
+            {
+                "threshold": 1230048,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/n_e"
+                }
+            },
+            {
+                "threshold": 1230049,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/n_s"
+                }
+            },
+            {
+                "threshold": 1230050,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/n_u"
+                }
+            },
+            {
+                "threshold": 1230051,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/n_w"
+                }
+            },
+            {
+                "threshold": 1230052,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/s_d"
+                }
+            },
+            {
+                "threshold": 1230053,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/s_u"
+                }
+            },
+            {
+                "threshold": 1230054,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/s_w"
+                }
+            },
+            {
+                "threshold": 1230055,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/u_d"
+                }
+            },
+            {
+                "threshold": 1230056,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/w_d"
+                }
+            },
+            {
+                "threshold": 1230057,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/2/w_u"
+                }
+            },
+            {
+                "threshold": 1230058,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/e_s_d"
+                }
+            },
+            {
+                "threshold": 1230059,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/e_s_u"
+                }
+            },
+            {
+                "threshold": 1230060,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/e_s_w"
+                }
+            },
+            {
+                "threshold": 1230061,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/e_u_d"
+                }
+            },
+            {
+                "threshold": 1230062,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/e_w_d"
+                }
+            },
+            {
+                "threshold": 1230063,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/e_w_u"
+                }
+            },
+            {
+                "threshold": 1230064,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/n_e_d"
+                }
+            },
+            {
+                "threshold": 1230065,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/n_e_s"
+                }
+            },
+            {
+                "threshold": 1230066,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/n_e_u"
+                }
+            },
+            {
+                "threshold": 1230067,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/n_e_w"
+                }
+            },
+            {
+                "threshold": 1230068,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/n_s_d"
+                }
+            },
+            {
+                "threshold": 1230069,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/n_s_u"
+                }
+            },
+            {
+                "threshold": 1230070,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/n_s_w"
+                }
+            },
+            {
+                "threshold": 1230071,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/n_u_d"
+                }
+            },
+            {
+                "threshold": 1230072,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/n_w_d"
+                }
+            },
+            {
+                "threshold": 1230073,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/n_w_u"
+                }
+            },
+            {
+                "threshold": 1230074,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/s_u_d"
+                }
+            },
+            {
+                "threshold": 1230075,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/s_w_d"
+                }
+            },
+            {
+                "threshold": 1230076,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/s_w_u"
+                }
+            },
+            {
+                "threshold": 1230077,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/3/w_u_d"
+                }
+            },
+            {
+                "threshold": 1230078,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/e_s_u_d"
+                }
+            },
+            {
+                "threshold": 1230079,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/e_s_w_d"
+                }
+            },
+            {
+                "threshold": 1230080,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/e_s_w_u"
+                }
+            },
+            {
+                "threshold": 1230081,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/e_w_u_d"
+                }
+            },
+            {
+                "threshold": 1230082,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/n_e_s_d"
+                }
+            },
+            {
+                "threshold": 1230083,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/n_e_s_u"
+                }
+            },
+            {
+                "threshold": 1230084,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/n_e_s_w"
+                }
+            },
+            {
+                "threshold": 1230085,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/n_e_u_d"
+                }
+            },
+            {
+                "threshold": 1230086,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/n_e_w_d"
+                }
+            },
+            {
+                "threshold": 1230087,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/n_e_w_u"
+                }
+            },
+            {
+                "threshold": 1230088,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/n_s_u_d"
+                }
+            },
+            {
+                "threshold": 1230089,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/n_s_w_d"
+                }
+            },
+            {
+                "threshold": 1230090,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/n_s_w_u"
+                }
+            },
+            {
+                "threshold": 1230091,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/n_w_u_d"
+                }
+            },
+            {
+                "threshold": 1230092,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/4/s_w_u_d"
+                }
+            },
+            {
+                "threshold": 1230093,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/5/e_s_w_u_d"
+                }
+            },
+            {
+                "threshold": 1230094,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/5/n_e_s_u_d"
+                }
+            },
+            {
+                "threshold": 1230095,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/5/n_e_s_w_d"
+                }
+            },
+            {
+                "threshold": 1230096,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/5/n_e_s_w_u"
+                }
+            },
+            {
+                "threshold": 1230097,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/5/n_e_w_u_d"
+                }
+            },
+            {
+                "threshold": 1230098,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wires/5/n_s_w_u_d"
+                }
+            },
+            {
+                "threshold": 1230099,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/rocket"
+                }
+            },
+            {
+                "threshold": 1230100,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_white"
+                }
+            },
+            {
+                "threshold": 1230101,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/bottom/0"
+                }
+            },
+            {
+                "threshold": 1230102,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/bottom/1"
+                }
+            },
+            {
+                "threshold": 1230103,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/bottom/2"
+                }
+            },
+            {
+                "threshold": 1230104,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/bottom/3"
+                }
+            },
+            {
+                "threshold": 1230105,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/bottom/4"
+                }
+            },
+            {
+                "threshold": 1230106,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/bottom/5"
+                }
+            },
+            {
+                "threshold": 1230107,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/bottom/6"
+                }
+            },
+            {
+                "threshold": 1230108,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/bottom/7"
+                }
+            },
+            {
+                "threshold": 1230109,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/middle/0"
+                }
+            },
+            {
+                "threshold": 1230110,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/middle/1"
+                }
+            },
+            {
+                "threshold": 1230111,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/middle/2"
+                }
+            },
+            {
+                "threshold": 1230112,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/middle/3"
+                }
+            },
+            {
+                "threshold": 1230113,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/middle/4"
+                }
+            },
+            {
+                "threshold": 1230114,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/middle/5"
+                }
+            },
+            {
+                "threshold": 1230115,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/middle/6"
+                }
+            },
+            {
+                "threshold": 1230116,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/middle/7"
+                }
+            },
+            {
+                "threshold": 1230117,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/middle/8"
+                }
+            },
+            {
+                "threshold": 1230118,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/top/0"
+                }
+            },
+            {
+                "threshold": 1230119,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/top/1"
+                }
+            },
+            {
+                "threshold": 1230120,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/top/2"
+                }
+            },
+            {
+                "threshold": 1230121,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/top/3"
+                }
+            },
+            {
+                "threshold": 1230122,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/top/4"
+                }
+            },
+            {
+                "threshold": 1230123,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/top/5"
+                }
+            },
+            {
+                "threshold": 1230124,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/top/6"
+                }
+            },
+            {
+                "threshold": 1230125,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/energy_meter_sideways/top/7"
+                }
+            },
+            {
+                "threshold": 1230127,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/forward_arrow"
+                }
+            },
+            {
+                "threshold": 1230128,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/back_arrow"
+                }
+            },
+            {
+                "threshold": 1230129,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/bottom/0"
+                }
+            },
+            {
+                "threshold": 1230130,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/bottom/1"
+                }
+            },
+            {
+                "threshold": 1230131,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/bottom/2"
+                }
+            },
+            {
+                "threshold": 1230132,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/bottom/3"
+                }
+            },
+            {
+                "threshold": 1230133,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/bottom/4"
+                }
+            },
+            {
+                "threshold": 1230134,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/bottom/5"
+                }
+            },
+            {
+                "threshold": 1230135,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/bottom/6"
+                }
+            },
+            {
+                "threshold": 1230136,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/bottom/7"
+                }
+            },
+            {
+                "threshold": 1230137,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/middle/0"
+                }
+            },
+            {
+                "threshold": 1230138,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/middle/1"
+                }
+            },
+            {
+                "threshold": 1230139,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/middle/2"
+                }
+            },
+            {
+                "threshold": 1230140,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/middle/3"
+                }
+            },
+            {
+                "threshold": 1230141,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/middle/4"
+                }
+            },
+            {
+                "threshold": 1230142,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/middle/5"
+                }
+            },
+            {
+                "threshold": 1230143,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/middle/6"
+                }
+            },
+            {
+                "threshold": 1230144,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/middle/7"
+                }
+            },
+            {
+                "threshold": 1230145,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/middle/8"
+                }
+            },
+            {
+                "threshold": 1230146,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/top/0"
+                }
+            },
+            {
+                "threshold": 1230147,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/top/1"
+                }
+            },
+            {
+                "threshold": 1230148,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/top/2"
+                }
+            },
+            {
+                "threshold": 1230149,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/top/3"
+                }
+            },
+            {
+                "threshold": 1230150,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/top/4"
+                }
+            },
+            {
+                "threshold": 1230151,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/top/5"
+                }
+            },
+            {
+                "threshold": 1230152,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/top/6"
+                }
+            },
+            {
+                "threshold": 1230153,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/oxygen_meter/top/7"
+                }
+            },
+            {
+                "threshold": 1230154,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/electron_belt_generator"
+                }
+            },
+            {
+                "threshold": 1230155,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/titanium_workbench"
+                }
+            },
+            {
+                "threshold": 1230156,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/titanium_block"
+                }
+            },
+            {
+                "threshold": 1230157,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/aluminium_alloy_block"
+                }
+            },
+            {
+                "threshold": 1230158,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/reinforced_aluminium_alloy_block"
+                }
+            },
+            {
+                "threshold": 1230159,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/palladium_block"
+                }
+            },
+            {
+                "threshold": 1230160,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/reinforced_palladium_block"
+                }
+            },
+            {
+                "threshold": 1230161,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/uranium_dust"
+                }
+            },
+            {
+                "threshold": 1230162,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/aluminium_alloy_ingot"
+                }
+            },
+            {
+                "threshold": 1230163,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/palladium_ingot"
+                }
+            },
+            {
+                "threshold": 1230164,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/titanium_can"
+                }
+            },
+            {
+                "threshold": 1230165,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/titanium_ingot"
+                }
+            },
+            {
+                "threshold": 1230166,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_palladium_ingot"
+                }
+            },
+            {
+                "threshold": 1230167,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_aluminium_alloy_ingot"
+                }
+            },
+            {
+                "threshold": 1230168,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/raw_aluminium_alloy"
+                }
+            },
+            {
+                "threshold": 1230169,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/raw_palladium"
+                }
+            },
+            {
+                "threshold": 1230170,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/raw_titanium"
+                }
+            },
+            {
+                "threshold": 1230171,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/palladium_barrel"
+                }
+            },
+            {
+                "threshold": 1230172,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/aluminium_barrel"
+                }
+            },
+            {
+                "threshold": 1230173,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/titanium_barrel"
+                }
+            },
+            {
+                "threshold": 1230175,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/modules/water_ventilation"
+                }
+            },
+            {
+                "threshold": 1230176,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/modules/breath_dampener"
+                }
+            },
+            {
+                "threshold": 1230177,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/modules/spectral_vision"
+                }
+            },
+            {
+                "threshold": 1230178,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/modules/fireproof"
+                }
+            },
+            {
+                "threshold": 1230179,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/modules/jetpack"
+                }
+            },
+            {
+                "threshold": 1230180,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/modules/fast_walking"
+                }
+            },
+            {
+                "threshold": 1230181,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/modules/advanced_projectile_resistance"
+                }
+            },
+            {
+                "threshold": 1230182,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/modules/jetboots"
+                }
+            },
+            {
+                "threshold": 1230183,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/modular_workbench"
+                }
+            },
+            {
+                "threshold": 1230184,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/cross_nobg"
+                }
+            },
+            {
+                "threshold": 1230185,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/modular_controller"
+                }
+            },
+            {
+                "threshold": 1230186,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_orange"
+                }
+            },
+            {
+                "threshold": 1230187,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_magenta"
+                }
+            },
+            {
+                "threshold": 1230188,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_light_blue"
+                }
+            },
+            {
+                "threshold": 1230189,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_yellow"
+                }
+            },
+            {
+                "threshold": 1230190,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_lime"
+                }
+            },
+            {
+                "threshold": 1230191,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_pink"
+                }
+            },
+            {
+                "threshold": 1230192,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_gray"
+                }
+            },
+            {
+                "threshold": 1230193,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_light_gray"
+                }
+            },
+            {
+                "threshold": 1230194,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_cyan"
+                }
+            },
+            {
+                "threshold": 1230195,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_purple"
+                }
+            },
+            {
+                "threshold": 1230196,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_brown"
+                }
+            },
+            {
+                "threshold": 1230197,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_green"
+                }
+            },
+            {
+                "threshold": 1230198,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_red"
+                }
+            },
+            {
+                "threshold": 1230199,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_black"
+                }
+            },
+            {
+                "threshold": 1230200,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/elevators/elevator_blue"
+                }
+            },
+            {
+                "threshold": 1230201,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/emergency_kit"
+                }
+            },
+            {
+                "threshold": 1230202,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/hang_glider"
+                }
+            },
+            {
+                "threshold": 1230203,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/photonic_barrier"
+                }
+            },
+            {
+                "threshold": 1230205,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/wireless_charging_station"
+                }
+            },
+            {
+                "threshold": 1230206,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/sealed_wire"
+                }
+            },
+            {
+                "threshold": 1230207,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/pipe"
+                }
+            },
+            {
+                "threshold": 1230208,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/trash_can"
+                }
+            },
+            {
+                "threshold": 1230209,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lunchbox"
+                }
+            },
+            {
+                "threshold": 1230210,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/charging_station"
+                }
+            },
+            {
+                "threshold": 1230211,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/tank_refiller"
+                }
+            },
+            {
+                "threshold": 1230212,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/nuclear_warhead"
+                }
+            },
+            {
+                "threshold": 1230213,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/coal_generator"
+                }
+            },
+            {
+                "threshold": 1230214,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/small_oxygen_cluster"
+                }
+            },
+            {
+                "threshold": 1230215,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/medium_oxygen_cluster"
+                }
+            },
+            {
+                "threshold": 1230216,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/large_oxygen_cluster"
+                }
+            },
+            {
+                "threshold": 1230217,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/iodine_pill"
+                }
+            },
+            {
+                "threshold": 1230218,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/space"
+                }
+            },
+            {
+                "threshold": 1230219,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/uk"
+                }
+            },
+            {
+                "threshold": 1230220,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/us"
+                }
+            },
+            {
+                "threshold": 1230221,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/spain"
+                }
+            },
+            {
+                "threshold": 1230222,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/scotland"
+                }
+            },
+            {
+                "threshold": 1230223,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/russia"
+                }
+            },
+            {
+                "threshold": 1230224,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/mexico"
+                }
+            },
+            {
+                "threshold": 1230225,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/ireland"
+                }
+            },
+            {
+                "threshold": 1230226,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/germany"
+                }
+            },
+            {
+                "threshold": 1230227,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/france"
+                }
+            },
+            {
+                "threshold": 1230228,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/czech"
+                }
+            },
+            {
+                "threshold": 1230229,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/canada"
+                }
+            },
+            {
+                "threshold": 1230230,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/argentina"
+                }
+            },
+            {
+                "threshold": 1230231,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/printer"
+                }
+            },
+            {
+                "threshold": 1230232,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/border_empty"
+                }
+            },
+            {
+                "threshold": 1230233,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/rubber"
+                }
+            },
+            {
+                "threshold": 1230234,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/canvas"
+                }
+            },
+            {
+                "threshold": 1230235,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/aluminium_rod"
+                }
+            },
+            {
+                "threshold": 1230236,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/capacitor"
+                }
+            },
+            {
+                "threshold": 1230237,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/circuit_board"
+                }
+            },
+            {
+                "threshold": 1230238,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/advanced_circuit_board"
+                }
+            },
+            {
+                "threshold": 1230239,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/energized_wire"
+                }
+            },
+            {
+                "threshold": 1230240,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/surge_proof_wire"
+                }
+            },
+            {
+                "threshold": 1230241,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/compressed_tank"
+                }
+            },
+            {
+                "threshold": 1230242,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/co2_scrubber"
+                }
+            },
+            {
+                "threshold": 1230243,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/plastic"
+                }
+            },
+            {
+                "threshold": 1230244,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/coolant_cell"
+                }
+            },
+            {
+                "threshold": 1230245,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/aluminium_alloy_nugget"
+                }
+            },
+            {
+                "threshold": 1230246,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/palladium_nugget"
+                }
+            },
+            {
+                "threshold": 1230247,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/titanium_nugget"
+                }
+            },
+            {
+                "threshold": 1230248,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_aluminium_alloy_nugget"
+                }
+            },
+            {
+                "threshold": 1230249,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/reinforced_palladium_nugget"
+                }
+            },
+            {
+                "threshold": 1230250,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/artificial_gravity_generator"
+                }
+            },
+            {
+                "threshold": 1230251,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/atomiser"
+                }
+            },
+            {
+                "threshold": 1230252,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/solar_panel"
+                }
+            },
+            {
+                "threshold": 1230253,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/solar_panel_on"
+                }
+            },
+            {
+                "threshold": 1230254,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/solar_panel_off"
+                }
+            },
+            {
+                "threshold": 1230255,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/solar_panel_advanced_on"
+                }
+            },
+            {
+                "threshold": 1230256,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/geothermal_generator"
+                }
+            },
+            {
+                "threshold": 1230257,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lead_ingot"
+                }
+            },
+            {
+                "threshold": 1230258,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/lead_block"
+                }
+            },
+            {
+                "threshold": 1230259,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lead_nugget"
+                }
+            },
+            {
+                "threshold": 1230260,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/raw_lead"
+                }
+            },
+            {
+                "threshold": 1230261,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/resource_pack"
+                }
+            },
+            {
+                "threshold": 1230262,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/oxygen_mask"
+                }
+            },
+            {
+                "threshold": 1230263,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/suit_fabricator"
+                }
+            },
+            {
+                "threshold": 1230264,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/infinite_oxygen_tank"
+                }
+            },
+            {
+                "threshold": 1230265,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/crafting_arrow"
+                }
+            },
+            {
+                "threshold": 1230266,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/debug_wand"
+                }
+            },
+            {
+                "threshold": 1230267,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/space_guide"
+                }
+            },
+            {
+                "threshold": 1230268,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/space_cheat_guide"
+                }
+            },
+            {
+                "threshold": 1230269,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/nuclear_reactor"
+                }
+            },
+            {
+                "threshold": 1230270,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/cluster_mode_in"
+                }
+            },
+            {
+                "threshold": 1230271,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/cluster_mode_out"
+                }
+            },
+            {
+                "threshold": 1230272,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/bottom/0"
+                }
+            },
+            {
+                "threshold": 1230273,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/bottom/1"
+                }
+            },
+            {
+                "threshold": 1230274,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/bottom/2"
+                }
+            },
+            {
+                "threshold": 1230275,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/bottom/3"
+                }
+            },
+            {
+                "threshold": 1230276,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/bottom/4"
+                }
+            },
+            {
+                "threshold": 1230277,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/bottom/5"
+                }
+            },
+            {
+                "threshold": 1230278,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/bottom/6"
+                }
+            },
+            {
+                "threshold": 1230279,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/bottom/7"
+                }
+            },
+            {
+                "threshold": 1230280,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/middle/0"
+                }
+            },
+            {
+                "threshold": 1230281,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/middle/1"
+                }
+            },
+            {
+                "threshold": 1230282,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/middle/2"
+                }
+            },
+            {
+                "threshold": 1230283,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/middle/3"
+                }
+            },
+            {
+                "threshold": 1230284,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/middle/4"
+                }
+            },
+            {
+                "threshold": 1230285,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/middle/5"
+                }
+            },
+            {
+                "threshold": 1230286,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/middle/6"
+                }
+            },
+            {
+                "threshold": 1230287,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/middle/7"
+                }
+            },
+            {
+                "threshold": 1230288,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/middle/8"
+                }
+            },
+            {
+                "threshold": 1230289,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/top/0"
+                }
+            },
+            {
+                "threshold": 1230290,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/top/1"
+                }
+            },
+            {
+                "threshold": 1230291,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/top/2"
+                }
+            },
+            {
+                "threshold": 1230292,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/top/3"
+                }
+            },
+            {
+                "threshold": 1230293,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/top/4"
+                }
+            },
+            {
+                "threshold": 1230294,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/top/5"
+                }
+            },
+            {
+                "threshold": 1230295,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/top/6"
+                }
+            },
+            {
+                "threshold": 1230296,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/coolant_meter/top/7"
+                }
+            },
+            {
+                "threshold": 1230297,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/coolant_unit"
+                }
+            },
+            {
+                "threshold": 1230298,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/quantum_workbench"
+                }
+            },
+            {
+                "threshold": 1230299,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/small_coolant_cluster"
+                }
+            },
+            {
+                "threshold": 1230300,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/medium_coolant_cluster"
+                }
+            },
+            {
+                "threshold": 1230301,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/large_coolant_cluster"
+                }
+            },
+            {
+                "threshold": 1230302,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/electrolytic_condenser"
+                }
+            },
+            {
+                "threshold": 1230303,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/emp"
+                }
+            },
+            {
+                "threshold": 1230304,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/infinite_battery"
+                }
+            },
+            {
+                "threshold": 1230305,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/airlock_door"
+                }
+            },
+            {
+                "threshold": 1230306,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/money"
+                }
+            },
+            {
+                "threshold": 1230307,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/medkit"
+                }
+            },
+            {
+                "threshold": 1230308,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/portable_workbench"
+                }
+            },
+            {
+                "threshold": 1230309,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/portable_ender_chest"
+                }
+            },
+            {
+                "threshold": 1230310,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/ukraine"
+                }
+            },
+            {
+                "threshold": 1230311,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/australia"
+                }
+            },
+            {
+                "threshold": 1230312,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/block_breaker"
+                }
+            },
+            {
+                "threshold": 1230313,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/electric_furnace"
+                }
+            },
+            {
+                "threshold": 1230314,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/aluminium_alloy_dust"
+                }
+            },
+            {
+                "threshold": 1230315,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/palladium_dust"
+                }
+            },
+            {
+                "threshold": 1230316,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/titanium_dust"
+                }
+            },
+            {
+                "threshold": 1230317,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/lead_dust"
+                }
+            },
+            {
+                "threshold": 1230318,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/iron_dust"
+                }
+            },
+            {
+                "threshold": 1230319,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/copper_dust"
+                }
+            },
+            {
+                "threshold": 1230320,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gold_dust"
+                }
+            },
+            {
+                "threshold": 1230321,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/pulverizer"
+                }
+            },
+            {
+                "threshold": 1230322,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/parachute"
+                }
+            },
+            {
+                "threshold": 1230323,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/electric_arc_furnace"
+                }
+            },
+            {
+                "threshold": 1230324,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/technoblade"
+                }
+            },
+            {
+                "threshold": 1230325,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/forcefield_generator"
+                }
+            },
+            {
+                "threshold": 1230326,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/previous_page_off"
+                }
+            },
+            {
+                "threshold": 1230327,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/previous_page_on"
+                }
+            },
+            {
+                "threshold": 1230328,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/next_page_off"
+                }
+            },
+            {
+                "threshold": 1230329,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/next_page_on"
+                }
+            },
+            {
+                "threshold": 1230330,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/add_user"
+                }
+            },
+            {
+                "threshold": 1230331,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/remove_user"
+                }
+            },
+            {
+                "threshold": 1230332,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/enchanter"
+                }
+            },
+            {
+                "threshold": 1230333,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/disenchanter"
+                }
+            },
+            {
+                "threshold": 1230334,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/block_placer"
+                }
+            },
+            {
+                "threshold": 1230335,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/solar_panel_quantum_on"
+                }
+            },
+            {
+                "threshold": 1230336,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/air_conditioner"
+                }
+            },
+            {
+                "threshold": 1230337,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/greece"
+                }
+            },
+            {
+                "threshold": 1230338,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/eu"
+                }
+            },
+            {
+                "threshold": 1230339,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/nasa"
+                }
+            },
+            {
+                "threshold": 1230340,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/jaxa"
+                }
+            },
+            {
+                "threshold": 1230341,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/esa"
+                }
+            },
+            {
+                "threshold": 1230342,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/ussr"
+                }
+            },
+            {
+                "threshold": 1230343,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/apollo"
+                }
+            },
+            {
+                "threshold": 1230344,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/flags/artemis"
+                }
+            },
+            {
+                "threshold": 1230345,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/charge_pad"
+                }
+            },
+            {
+                "threshold": 1230346,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/bio_reactor"
+                }
+            },
+            {
+                "threshold": 1230347,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/modules/acid_proof"
+                }
+            },
+            {
+                "threshold": 1230348,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/charge_pad"
+                }
+            },
+            {
+                "threshold": 1230349,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/rover"
+                }
+            },
+            {
+                "threshold": 1230350,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/wheel"
+                }
+            },
+            {
+                "threshold": 1230351,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/chair"
+                }
+            },
+            {
+                "threshold": 1230352,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/antenna"
+                }
+            },
+            {
+                "threshold": 1230353,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/lander"
+                }
+            },
+            {
+                "threshold": 1230354,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/forward_arrow_nobg"
+                }
+            },
+            {
+                "threshold": 1230355,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/back_arrow_nobg"
+                }
+            },
+            {
+                "threshold": 1230356,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/launch"
+                }
+            },
+            {
+                "threshold": 1230357,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/next_page_on_alt"
+                }
+            },
+            {
+                "threshold": 1230358,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/next_page_off_alt"
+                }
+            },
+            {
+                "threshold": 1230359,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/previous_page_on_alt"
+                }
+            },
+            {
+                "threshold": 1230360,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/previous_page_off_alt"
+                }
+            },
+            {
+                "threshold": 1230361,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/radius"
+                }
+            },
+            {
+                "threshold": 1230362,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/particles"
+                }
+            },
+            {
+                "threshold": 1230363,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/teleporter"
+                }
+            },
+            {
+                "threshold": 1230364,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/refinery"
+                }
+            },
+            {
+                "threshold": 1230365,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/0"
+                }
+            },
+            {
+                "threshold": 1230366,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/1"
+                }
+            },
+            {
+                "threshold": 1230367,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/2"
+                }
+            },
+            {
+                "threshold": 1230368,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/3"
+                }
+            },
+            {
+                "threshold": 1230369,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/4"
+                }
+            },
+            {
+                "threshold": 1230370,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/5"
+                }
+            },
+            {
+                "threshold": 1230371,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/6"
+                }
+            },
+            {
+                "threshold": 1230372,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/7"
+                }
+            },
+            {
+                "threshold": 1230373,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/8"
+                }
+            },
+            {
+                "threshold": 1230374,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/9"
+                }
+            },
+            {
+                "threshold": 1230375,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/10"
+                }
+            },
+            {
+                "threshold": 1230376,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/11"
+                }
+            },
+            {
+                "threshold": 1230377,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/12"
+                }
+            },
+            {
+                "threshold": 1230378,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/13"
+                }
+            },
+            {
+                "threshold": 1230379,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/14"
+                }
+            },
+            {
+                "threshold": 1230380,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/15"
+                }
+            },
+            {
+                "threshold": 1230381,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/gui/fuel_meter/16"
+                }
+            },
+            {
+                "threshold": 1230382,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/refinery"
+                }
+            },
+            {
+                "threshold": 1230383,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/portable_generator"
+                }
+            },
+            {
+                "threshold": 1230384,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/carbon"
+                }
+            },
+            {
+                "threshold": 1230385,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/steel_ingot"
+                }
+            },
+            {
+                "threshold": 1230386,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/steel_dust"
+                }
+            },
+            {
+                "threshold": 1230387,
+                "model": {
+                    "type": "model",
+                    "model": "space:item/steel_nugget"
+                }
+            },
+            {
+                "threshold": 1230388,
+                "model": {
+                    "type": "model",
+                    "model": "space:block/steel_block"
+                }
+            }
+        ]
+    },
+        "oversized_in_gui": true
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "space:leadset"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "space:leadset"
+      }
+    ]
+  }
+}
