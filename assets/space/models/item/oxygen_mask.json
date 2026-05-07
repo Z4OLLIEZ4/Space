@@ -2,7 +2,7 @@
 	"credit": "Made by OLLIEZ4",
 	"textures": {
 		"0": "space:item/oxygen_mask_tank",
-		"1": "minecraft:block/glass",
+		"1": "space:item/glass",
 		"particle": "space:item/oxygen_mask_tank"
 	},
 	"elements": [

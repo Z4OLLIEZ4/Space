@@ -1,9 +1,10 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made by OLLIEZ4",
 	"textures": {
-		"0": "space:block/rocket_tile",
+		"0": "space:item/rocket_tile",
 		"1": "space:item/lunchbox_side",
-		"particle": "space:block/rocket_tile"
+		"particle": "space:item/rocket_tile"
 	},
 	"elements": [
 		{
@@ -75,7 +76,7 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
+			"rotation": [30, -135, 0],
 			"translation": [0, 3, 0]
 		},
 		"head": {

@@ -1,12 +1,12 @@
 {
 	"credit": "Made by OLLIEZ4",
 	"textures": {
-		"1": "space:block/rocket_tile_dark",
+		"1": "space:item/rocket_tile_dark",
 		"2": "space:item/lightsabers/darksaber_1",
 		"3": "space:item/lightsabers/darksaber_2",
 		"4": "space:item/lightsabers/darksaber_3",
 		"5": "space:item/lightsabers/lightsaber_blade",
-		"particle": "space:block/rocket_tile"
+		"particle": "space:item/rocket_tile"
 	},
 	"elements": [
 		{

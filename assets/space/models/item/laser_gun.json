@@ -1,7 +1,8 @@
 {
 	"credit": "Made by b2",
 	"textures": {
-		"0": "space:item/laser_gun"
+		"0": "space:item/laser_gun",
+		"particle": "space:item/laser_gun"
 	},
 	"elements": [
 		{

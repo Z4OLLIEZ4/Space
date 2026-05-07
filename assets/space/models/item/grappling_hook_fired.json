@@ -1,10 +1,11 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made by OLLIEZ4",
 	"textures": {
-		"0": "space:block/rocket_tile",
-		"1": "space:block/rocket_tile_dark",
+		"0": "space:item/rocket_tile",
+		"1": "space:item/rocket_tile_dark",
 		"2": "space:item/oxygen_mask_tank",
-		"particle": "space:block/rocket_tile"
+		"particle": "space:item/rocket_tile"
 	},
 	"elements": [
 		{
@@ -192,7 +193,7 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [30, 225, 0],
+			"rotation": [30, -135, 0],
 			"translation": [-3, 2, 0],
 			"scale": [1.2, 1.2, 1.2]
 		},
@@ -210,26 +211,36 @@
 		{
 			"name": "Scope",
 			"origin": [14.7, 16, 13.5],
+			"scope": 0,
+			"color": 0,
 			"children": [0, 1, 2]
 		},
 		{
 			"name": "Trigger",
 			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
 			"children": [3, 4, 5]
 		},
 		{
 			"name": "Body",
 			"origin": [10.1, 14.4, 13.1],
+			"scope": 0,
+			"color": 0,
 			"children": [6, 7, 8, 9]
 		},
 		{
 			"name": "Hook",
 			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
 			"children": [10]
 		},
 		{
 			"name": "Scope",
 			"origin": [14.7, 16, 13.5],
+			"scope": 0,
+			"color": 0,
 			"children": [11, 12, 13]
 		}
 	]
